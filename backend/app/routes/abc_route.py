@@ -1,9 +1,7 @@
-from flask import Blueprint
-from app.routes import bp
+from flask import Blueprint, jsonify
 
-@bp.route('/abc_route', methods=['GET'])
-def api_endpoint():
-    return {
-        "message": "abc_route",
-        "status": "success"
-    }
+bp = Blueprint('abc', __name__)
+
+@bp.route('/abc', methods=['GET'])
+def abc():
+    return jsonify({"message": "ABC route"})

@@ -18,13 +18,14 @@ def create_app(config_class=Config):
         r"/*": {
             "origins": app.config['FRONTEND_URL'],
             "methods": ["GET", "POST"],
-            "allow_headers": ["Content-Type"]
+            "allow_headers": ["Content-Type", "Content-Length"],
+            "max_age": 3600
         }
     })
 
     # Register blueprints
-    from app.routes import bp as bp
-    app.register_blueprint(bp, url_prefix='/')
+    from app.routes import init_app
+    init_app(app)
 
     @app.route('/', methods=['GET'])
     def api_endpoint():
@@ -32,5 +33,5 @@ def create_app(config_class=Config):
             "message": "Hello, World!",
             "status": "success"
         }
-    
+
     return app
