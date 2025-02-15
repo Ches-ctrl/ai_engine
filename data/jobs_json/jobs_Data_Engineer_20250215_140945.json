@@ -1,0 +1,2295 @@
+{
+  "metadata": {
+    "search_title": "Data Engineer",
+    "search_location": "United States",
+    "timestamp": "20250215_140945",
+    "total_jobs": 42
+  },
+  "jobs": [
+    {
+      "id": "1409419532",
+      "date_posted": "2025-02-15T00:00:00",
+      "date_created": "2025-02-15T04:01:35.512034",
+      "title": "AIML - Sr Backend Engineer, Data and ML Innovation",
+      "organization": "Apple",
+      "organization_url": "https://www.apple.com",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "address": {
+            "streetAddress": "",
+            "addressLocality": "Seattle",
+            "addressRegion": "Washington",
+            "postalCode": "",
+            "addressCountry": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": null,
+      "url": "https://jobs.apple.com/en-us/details/200591713/aiml-sr-backend-engineer-data-and-ml-innovation",
+      "source_type": "career-site",
+      "source": "Apple",
+      "source_domain": "jobs.apple.com",
+      "organization_logo": "https://www.apple.com/ac/structured-data/images/open_graph_logo.png",
+      "cities_derived": [
+        "Seattle"
+      ],
+      "regions_derived": [
+        "Washington"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Seattle, Washington, United States"
+      ],
+      "timezones_derived": [
+        "America/Los_Angeles"
+      ],
+      "lats_derived": [
+        47.6211
+      ],
+      "lngs_derived": [
+        -122.3244
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409377440",
+      "date_posted": "2025-02-14T22:21:40",
+      "date_created": "2025-02-15T03:38:27.303894",
+      "title": "Senior Data Engineer",
+      "organization": "Ford Global Career Site",
+      "organization_url": "https://efds.fa.em5.oraclecloud.com:443/hcmUI/CandidateExperience/",
+      "date_validthrough": "2025-02-28T22:21:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Dearborn",
+            "addressRegion": "MI",
+            "addressCountry": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "Full time"
+      ],
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41357",
+      "source_type": "ats",
+      "source": "oraclecloud",
+      "source_domain": "efds.fa.em5.oraclecloud.com",
+      "organization_logo": "https://corporate.ford.com/content/dam/corporate/us/en-us/icons/ford-logo.png",
+      "cities_derived": [
+        "Dearborn"
+      ],
+      "regions_derived": [
+        "Michigan"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Dearborn, Michigan, United States"
+      ],
+      "timezones_derived": [
+        "America/Detroit"
+      ],
+      "lats_derived": [
+        42.3127
+      ],
+      "lngs_derived": [
+        -83.213
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408695514",
+      "date_posted": "2025-02-14T21:49:45.828",
+      "date_created": "2025-02-14T21:53:04.518969",
+      "title": "Data Engineer- AI Experimentation Platform",
+      "organization": "Visa",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "address": {
+            "addressLocality": "Austin",
+            "addressRegion": "Texas",
+            "addressCountry": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "Austin, TX"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "Full-time"
+      ],
+      "url": "https://jobs.smartrecruiters.com/Visa/744000042716323-data-engineer-ai-experimentation-platform",
+      "source_type": "ats",
+      "source": "smartrecruiters",
+      "source_domain": "jobs.smartrecruiters.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Austin"
+      ],
+      "regions_derived": [
+        "Texas"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Austin, Texas, United States"
+      ],
+      "timezones_derived": [
+        "America/Chicago"
+      ],
+      "lats_derived": [
+        30.3005
+      ],
+      "lngs_derived": [
+        -97.7522
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408686596",
+      "date_posted": "2025-02-14T21:45:17.956",
+      "date_created": "2025-02-14T21:49:04.504279",
+      "title": "Data Engineer - Sr. Consultant level- Core Data Assets",
+      "organization": "Visa",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "address": {
+            "addressLocality": "Foster City",
+            "addressRegion": "California",
+            "addressCountry": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "Foster City, CA"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "Full-time"
+      ],
+      "url": "https://jobs.smartrecruiters.com/Visa/744000042716287-data-engineer-sr-consultant-level-core-data-assets",
+      "source_type": "ats",
+      "source": "smartrecruiters",
+      "source_domain": "jobs.smartrecruiters.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Foster City"
+      ],
+      "regions_derived": [
+        "California"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Foster City, California, United States"
+      ],
+      "timezones_derived": [
+        "America/Los_Angeles"
+      ],
+      "lats_derived": [
+        37.5553
+      ],
+      "lngs_derived": [
+        -122.2659
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409563658",
+      "date_posted": "2025-02-14T21:00:09",
+      "date_created": "2025-02-15T05:10:47.553218",
+      "title": "Summer Data Engineer Internship",
+      "organization": "Cotton Holdings",
+      "organization_url": "https://cottonholdings.com/",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "name": "Houston, TX",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "",
+            "addressCountry": "US",
+            "addressLocality": "Houston",
+            "addressRegion": "Texas",
+            "postalCode": ""
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": [
+        {
+          "@type": "Country",
+          "name": "United States"
+        }
+      ],
+      "salary_raw": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "maxValue": 17,
+          "minValue": 15,
+          "unitText": "HOUR"
+        }
+      },
+      "employment_type": [
+        "INTERN"
+      ],
+      "url": "https://cottonholdings.pinpointhq.com/en/postings/461288a6-cfea-4e74-80f5-f081fd588614",
+      "source_type": "ats",
+      "source": "pinpoint",
+      "source_domain": "cottonholdings.pinpointhq.com",
+      "organization_logo": "https://app.pinpointhq.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeG9EVUE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--06803d0883357363052f3420b1a81f4e7d7b8c5a/CottonHoldings.png",
+      "cities_derived": [
+        "Houston"
+      ],
+      "regions_derived": [
+        "Texas"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Houston, Texas, United States"
+      ],
+      "timezones_derived": [
+        "America/Chicago"
+      ],
+      "lats_derived": [
+        29.786
+      ],
+      "lngs_derived": [
+        -95.3885
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408478490",
+      "date_posted": "2025-02-14T20:04:18.03",
+      "date_created": "2025-02-14T20:05:05.530683",
+      "title": "Data Engineer Training And Placement",
+      "organization": "Resourcex,Inc.",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "address": {
+            "streetAddress": "Grand Rapids",
+            "addressLocality": "Grand Rapids",
+            "addressRegion": "Michigan",
+            "addressCountry": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "Grand Rapids, Grand Rapids, MI, United States"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "Full-time"
+      ],
+      "url": "https://jobs.smartrecruiters.com/ResourcexInc/744000042702936-data-engineer-training-and-placement",
+      "source_type": "ats",
+      "source": "smartrecruiters",
+      "source_domain": "jobs.smartrecruiters.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Grand Rapids"
+      ],
+      "regions_derived": [
+        "Michigan"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Grand Rapids, Michigan, United States"
+      ],
+      "timezones_derived": [
+        "America/Detroit"
+      ],
+      "lats_derived": [
+        42.9619
+      ],
+      "lngs_derived": [
+        -85.6562
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409690634",
+      "date_posted": "2025-02-14T17:55:47",
+      "date_created": "2025-02-15T06:16:13.478792",
+      "title": "Electrical Engineer - Mission Critical/ Data Center (Remote)",
+      "organization": "Michael Baker International",
+      "organization_url": "https://ebxs.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": null,
+            "addressRegion": null,
+            "addressCountry": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "Full time"
+      ],
+      "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/307947",
+      "source_type": "ats",
+      "source": "oraclecloud",
+      "source_domain": "ebxs.fa.us2.oraclecloud.com",
+      "organization_logo": "https://ebxs.fa.us2.oraclecloud.com/cs/groups/public/documents/digitalmedia/ytax/mzq2/~edisp/ucmfa01346702.png",
+      "cities_derived": null,
+      "regions_derived": null,
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        38.9047
+      ],
+      "lngs_derived": [
+        -77.0163
+      ],
+      "remote_derived": true
+    },
+    {
+      "id": "1409690645",
+      "date_posted": "2025-02-14T17:52:34",
+      "date_created": "2025-02-15T06:16:13.823173",
+      "title": "Mechanical Engineer - Mission Critical/ Data Center (Remote)",
+      "organization": "Michael Baker International",
+      "organization_url": "https://ebxs.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": null,
+            "addressRegion": null,
+            "addressCountry": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "Full time"
+      ],
+      "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/307944",
+      "source_type": "ats",
+      "source": "oraclecloud",
+      "source_domain": "ebxs.fa.us2.oraclecloud.com",
+      "organization_logo": "https://ebxs.fa.us2.oraclecloud.com/cs/groups/public/documents/digitalmedia/ytax/mzq2/~edisp/ucmfa01346702.png",
+      "cities_derived": null,
+      "regions_derived": null,
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        38.9047
+      ],
+      "lngs_derived": [
+        -77.0163
+      ],
+      "remote_derived": true
+    },
+    {
+      "id": "1409690604",
+      "date_posted": "2025-02-14T17:52:32",
+      "date_created": "2025-02-15T06:16:12.75529",
+      "title": "Senior Electrical Engineer - Mission Critical/ Data Center (Remote)",
+      "organization": "Michael Baker International",
+      "organization_url": "https://ebxs.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": null,
+            "addressRegion": null,
+            "addressCountry": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "Full time"
+      ],
+      "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/307946",
+      "source_type": "ats",
+      "source": "oraclecloud",
+      "source_domain": "ebxs.fa.us2.oraclecloud.com",
+      "organization_logo": "https://ebxs.fa.us2.oraclecloud.com/cs/groups/public/documents/digitalmedia/ytax/mzq2/~edisp/ucmfa01346702.png",
+      "cities_derived": null,
+      "regions_derived": null,
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        38.9047
+      ],
+      "lngs_derived": [
+        -77.0163
+      ],
+      "remote_derived": true
+    },
+    {
+      "id": "1409690638",
+      "date_posted": "2025-02-14T17:47:02",
+      "date_created": "2025-02-15T06:16:13.708837",
+      "title": "Senior Mechanical Engineer - Mission Critical/ Data Center (Remote)",
+      "organization": "Michael Baker International",
+      "organization_url": "https://ebxs.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": null,
+            "addressRegion": null,
+            "addressCountry": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "Full time"
+      ],
+      "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/307943",
+      "source_type": "ats",
+      "source": "oraclecloud",
+      "source_domain": "ebxs.fa.us2.oraclecloud.com",
+      "organization_logo": "https://ebxs.fa.us2.oraclecloud.com/cs/groups/public/documents/digitalmedia/ytax/mzq2/~edisp/ucmfa01346702.png",
+      "cities_derived": null,
+      "regions_derived": null,
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        38.9047
+      ],
+      "lngs_derived": [
+        -77.0163
+      ],
+      "remote_derived": true
+    },
+    {
+      "id": "1407900202",
+      "date_posted": "2025-02-14T14:58:32.136",
+      "date_created": "2025-02-14T15:01:11.822864",
+      "title": "Data Engineer Training and Placement",
+      "organization": "Learnkwik.com",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "address": {
+            "streetAddress": "Spokane",
+            "addressLocality": "Spokane",
+            "addressRegion": "Washington",
+            "addressCountry": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "Spokane, Spokane, WA, United States"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "Full-time"
+      ],
+      "url": "https://jobs.smartrecruiters.com/Learnkwikcom/744000042644425-data-engineer-training-and-placement",
+      "source_type": "ats",
+      "source": "smartrecruiters",
+      "source_domain": "jobs.smartrecruiters.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Spokane"
+      ],
+      "regions_derived": [
+        "Washington"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Spokane, Washington, United States"
+      ],
+      "timezones_derived": [
+        "America/Los_Angeles"
+      ],
+      "lats_derived": [
+        47.6671
+      ],
+      "lngs_derived": [
+        -117.433
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409421887",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-15T04:02:52.391737",
+      "title": "Senior Software Engineer - Data Platform, Apple Services Engineering",
+      "organization": "Apple",
+      "organization_url": "https://www.apple.com",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "address": {
+            "streetAddress": "",
+            "addressLocality": "Cupertino",
+            "addressRegion": "California",
+            "postalCode": "",
+            "addressCountry": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": null,
+      "url": "https://jobs.apple.com/en-us/details/200591563/senior-software-engineer-data-platform-apple-services-engineering",
+      "source_type": "career-site",
+      "source": "Apple",
+      "source_domain": "jobs.apple.com",
+      "organization_logo": "https://www.apple.com/ac/structured-data/images/open_graph_logo.png",
+      "cities_derived": [
+        "Cupertino"
+      ],
+      "regions_derived": [
+        "California"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Cupertino, California, United States"
+      ],
+      "timezones_derived": [
+        "America/Los_Angeles"
+      ],
+      "lats_derived": [
+        37.3168
+      ],
+      "lngs_derived": [
+        -122.0466
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409419969",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-15T04:01:54.469533",
+      "title": "Senior Data Engineer, Infrastructure Services",
+      "organization": "Apple",
+      "organization_url": "https://www.apple.com",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "address": {
+            "streetAddress": "",
+            "addressLocality": "Sunnyvale",
+            "addressRegion": "California",
+            "postalCode": "",
+            "addressCountry": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": null,
+      "url": "https://jobs.apple.com/en-us/details/200591505/senior-data-engineer-infrastructure-services",
+      "source_type": "career-site",
+      "source": "Apple",
+      "source_domain": "jobs.apple.com",
+      "organization_logo": "https://www.apple.com/ac/structured-data/images/open_graph_logo.png",
+      "cities_derived": [
+        "Sunnyvale"
+      ],
+      "regions_derived": [
+        "California"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Sunnyvale, California, United States"
+      ],
+      "timezones_derived": [
+        "America/Los_Angeles"
+      ],
+      "lats_derived": [
+        37.3836
+      ],
+      "lngs_derived": [
+        -122.0255
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409395321",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-15T03:47:00.497029",
+      "title": "Data Platform Software Engineer",
+      "organization": "Celonis",
+      "organization_url": "http://www.celonis.com",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "New York, US, New York",
+            "addressLocality": "New York, US, New York"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "Please Update Office Field"
+      ],
+      "url": "https://www.celonis.com/careers/jobs/details/?jobId=6352998003?gh_jid=6352998003",
+      "source_type": "ats",
+      "source": "greenhouse_embedded",
+      "source_domain": "celonis.com",
+      "organization_logo": "https://www.celonis.com/images/company/logo.png",
+      "cities_derived": null,
+      "regions_derived": [
+        "New York"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "New York, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        42.6664
+      ],
+      "lngs_derived": [
+        -73.7987
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409181828",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-15T01:56:55.373127",
+      "title": "Data Engineer",
+      "organization": "Millennium",
+      "organization_url": "mlp.com",
+      "date_validthrough": "2025-03-16T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "New York",
+            "addressRegion": "NY",
+            "addressCountry": {
+              "@type": "Country",
+              "name": "US"
+            }
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://mlp.eightfold.ai/careers/job/755941505781-data-engineer-new-york-new-york-united-states-of-america",
+      "source_type": "ats",
+      "source": "eightfold",
+      "source_domain": "mlp.eightfold.ai",
+      "organization_logo": null,
+      "cities_derived": null,
+      "regions_derived": [
+        "New York"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "New York, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        42.6664
+      ],
+      "lngs_derived": [
+        -73.7987
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409181802",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-15T01:56:51.147804",
+      "title": "Data Lead Engineer (VP) - Hybrid",
+      "organization": "Citi",
+      "organization_url": "citi.com",
+      "date_validthrough": "2025-03-16T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Jersey City",
+            "addressRegion": "NJ",
+            "addressCountry": {
+              "@type": "Country",
+              "name": "US"
+            }
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://citi.eightfold.ai/careers/job/859019703071-data-lead-engineer-vp-hybrid-jersey-city-new-jersey-united-states-of-america",
+      "source_type": "ats",
+      "source": "eightfold",
+      "source_domain": "citi.eightfold.ai",
+      "organization_logo": null,
+      "cities_derived": [
+        "Jersey City"
+      ],
+      "regions_derived": [
+        "New Jersey"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Jersey City, New Jersey, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        40.7184
+      ],
+      "lngs_derived": [
+        -74.0686
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409158573",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-15T01:42:00.249044",
+      "title": "Configuration and Data Management Systems Engineer – Blue Ring",
+      "organization": "BLUE ORIGIN",
+      "organization_url": "",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "WA - Jules Verne Factory"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "Seattle, WA"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Seattle-WA/Configuration-and-Data-Management-Systems-Engineer---Blue-Ring_R48416",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "blueorigin.wd5.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Seattle"
+      ],
+      "regions_derived": [
+        "Washington"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Seattle, Washington, United States"
+      ],
+      "timezones_derived": [
+        "America/Los_Angeles"
+      ],
+      "lats_derived": [
+        47.6211
+      ],
+      "lngs_derived": [
+        -122.3244
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409157385",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-15T01:41:37.164751",
+      "title": "Volatility Data Engineer - Systematic Data Platform",
+      "organization": "Martin Marietta",
+      "organization_url": "",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "New York, NY - 399 Park Avenue"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "New York, NY - 399 Park Avenue"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://mlp.wd5.myworkdayjobs.com/mlpcareers/job/New-York-NY---399-Park-Avenue/Vol-Data-Specialist-1_REQ-22805-4",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "mlp.wd5.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": null,
+      "regions_derived": null,
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        38.9047
+      ],
+      "lngs_derived": [
+        -77.0163
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409154227",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-15T01:40:27.691658",
+      "title": "Senior Data Engineer",
+      "organization": "Abbott",
+      "organization_url": "",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "United States &gt; Alameda : 2901 Harbor Bay Parkway"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "United States - California - Alameda"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Alameda/Senior-Data-Engineer_31110317",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "abbott.wd5.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Alameda"
+      ],
+      "regions_derived": [
+        "California"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Alameda, California, United States"
+      ],
+      "timezones_derived": [
+        "America/Los_Angeles"
+      ],
+      "lats_derived": [
+        37.7668
+      ],
+      "lngs_derived": [
+        -122.267
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409152437",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-15T01:39:50.286944",
+      "title": "Senior Data Engineer",
+      "organization": "Abbott",
+      "organization_url": "",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "United States &gt; Alameda : 2901 Harbor Bay Parkway"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "United States - California - Alameda"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Senior-Data-Engineer_31110317-1",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "abbott.wd5.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Alameda"
+      ],
+      "regions_derived": [
+        "California"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Alameda, California, United States"
+      ],
+      "timezones_derived": [
+        "America/Los_Angeles"
+      ],
+      "lats_derived": [
+        37.7668
+      ],
+      "lngs_derived": [
+        -122.267
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409047472",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-15T00:44:18.494146",
+      "title": "Data Ops Engineer II",
+      "organization": "GSK",
+      "organization_url": "",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "Cambridge 300 Technology Square"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "Cambridge 300 Technology Square"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Cambridge-300-Technology-Square/Data-Ops-Engineer-II_415335",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "gsk.wd5.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": null,
+      "regions_derived": null,
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        38.9047
+      ],
+      "lngs_derived": [
+        -77.0163
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409047281",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-15T00:44:09.044781",
+      "title": "PAI/PAEI Data Engineer",
+      "organization": "Parsons Corporation",
+      "organization_url": "",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "USA MD (Virtual Office)"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "US - Remote (Any Location)"
+      ],
+      "location_type": "TELECOMMUTE",
+      "location_requirements_raw": [
+        {
+          "@type": "Country",
+          "name": "United States of America"
+        }
+      ],
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://parsons.wd5.myworkdayjobs.com/Search/job/US---Remote-Any-Location/PAI-PAEI-Data-Engineer_R162794",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "parsons.wd5.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": null,
+      "regions_derived": null,
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        38.9047
+      ],
+      "lngs_derived": [
+        -77.0163
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408933125",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T23:47:38.040758",
+      "title": "Data Engineer",
+      "organization": "Capital One",
+      "organization_url": "",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "McLean, VA"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "McLean, VA"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Data-Engineer_R208521-1",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "capitalone.wd12.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "McLean"
+      ],
+      "regions_derived": [
+        "Virginia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "McLean, Virginia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        38.9436
+      ],
+      "lngs_derived": [
+        -77.1943
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408800808",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T22:43:19.705541",
+      "title": "Senior Data Engineer",
+      "organization": "U.S. Bank",
+      "organization_url": "",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "Hopkins, MN"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "Hopkins, MN"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Senior-Data-Engineer_2025-0003258",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "usbank.wd1.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Hopkins"
+      ],
+      "regions_derived": [
+        "Minnesota"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Hopkins, Minnesota, United States"
+      ],
+      "timezones_derived": [
+        "America/Chicago"
+      ],
+      "lats_derived": [
+        44.9259
+      ],
+      "lngs_derived": [
+        -93.4056
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408766010",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T22:30:57.887615",
+      "title": "Data Scientist (Senior Engineer II - Application Team)",
+      "organization": "Rockerbox",
+      "organization_url": "{}",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": "TELECOMMUTE",
+      "location_requirements_raw": [
+        {
+          "@type": "Country",
+          "name": "United States"
+        }
+      ],
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://jobs.ashbyhq.com/rockerbox/e7244962-36b3-4de2-a533-e4bc226f5da6",
+      "source_type": "ats",
+      "source": "ashby",
+      "source_domain": "jobs.ashbyhq.com",
+      "organization_logo": "https://app.ashbyhq.com/api/images/org-theme-logo/2ec365da-8bb7-4426-935a-78c32ef1b59e/c9821806-3fe2-4f41-85b6-fe536496ed08/080f58c2-c1f1-42b1-9fbd-431d9e99baa4.png",
+      "cities_derived": null,
+      "regions_derived": null,
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        38.9047
+      ],
+      "lngs_derived": [
+        -77.0163
+      ],
+      "remote_derived": true
+    },
+    {
+      "id": "1408688347",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T21:50:02.945025",
+      "title": "Supplier Engineer - Technical Data Package Specialist (Temp)",
+      "organization": "RTX",
+      "organization_url": "",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "AZ201: RMS AP Bldg 801 1151 East Hermans Road Building 801, Tucson, AZ, 85756 USA"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "AZ201: RMS AP Bldg 801 1151 East Hermans Road Building 801, Tucson, AZ, 85756 USA"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "PART_TIME"
+      ],
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/Supplier-Engineer---Technical-Data-Package-Specialist--Temp-_01752330",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "globalhr.wd5.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": null,
+      "regions_derived": null,
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        38.9047
+      ],
+      "lngs_derived": [
+        -77.0163
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408679522",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T21:45:48.275304",
+      "title": "Sr. Software Engineer - Data & Analytics - Paze",
+      "organization": "Early Warning®",
+      "organization_url": "",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "Scottsdale"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "Scottsdale",
+        "Chicago",
+        "San Francisco",
+        "New York City"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Scottsdale/Sr-Software-Engineer---Data---Analytics---Paze_REQ2025121",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "earlywarning.wd5.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Chicago",
+        "New City",
+        "San Francisco",
+        "Scottsdale"
+      ],
+      "regions_derived": [
+        "Illinois",
+        "New York",
+        "California",
+        "Arizona"
+      ],
+      "countries_derived": [
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "locations_derived": [
+        "Chicago, Illinois, United States",
+        "New City, New York, United States",
+        "San Francisco, California, United States",
+        "Scottsdale, Arizona, United States"
+      ],
+      "timezones_derived": [
+        "America/Chicago",
+        "America/New_York",
+        "America/Los_Angeles",
+        "America/Phoenix"
+      ],
+      "lats_derived": [
+        41.8375,
+        41.1542,
+        37.7558,
+        33.6872
+      ],
+      "lngs_derived": [
+        -87.6866,
+        -73.9912,
+        -122.4449,
+        -111.8651
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408676848",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T21:44:23.274692",
+      "title": "Senior Software Engineer - Aerospace Data (Exton, PA)",
+      "organization": "Ansys",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "address": {
+            "addressLocality": "Exton",
+            "addressRegion": "PA",
+            "postalCode": "19341",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": null,
+      "url": "https://careers.ansys.com/job/Exton-Senior-Software-Engineer-Aerospace-Data-%28Exton%2C-PA%29-PA-19341/1263072600/",
+      "source_type": "ats",
+      "source": "successfactors",
+      "source_domain": "careers.ansys.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Exton"
+      ],
+      "regions_derived": [
+        "Pennsylvania"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Exton, Pennsylvania, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        40.0307
+      ],
+      "lngs_derived": [
+        -75.6303
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408588577",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T21:00:35.011666",
+      "title": "Senior Data Engineer",
+      "organization": "Multi Media LLC",
+      "organization_url": "https://jobs.workable.com/company/gUoUNid2RSFNTLynjVyFJb/jobs-at-multi-media-llc",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place"
+        }
+      ],
+      "locations_alt_raw": [
+        "United States"
+      ],
+      "location_type": "TELECOMMUTE",
+      "location_requirements_raw": [
+        {
+          "@type": "Country",
+          "name": "United States"
+        }
+      ],
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://jobs.workable.com/view/1spyk8NS3VX3Q4JiCW7XMR/remote-senior-data-engineer-in-united-states-at-multi-media-llc",
+      "source_type": "ats",
+      "source": "workable",
+      "source_domain": "jobs.workable.com",
+      "organization_logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/395832/logo",
+      "cities_derived": null,
+      "regions_derived": null,
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        38.9047
+      ],
+      "lngs_derived": [
+        -77.0163
+      ],
+      "remote_derived": true
+    },
+    {
+      "id": "1408440958",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T19:42:09.162574",
+      "title": "Data Engineer, GovEx",
+      "organization": "Johns Hopkins University",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "address": {
+            "addressLocality": "Baltimore",
+            "addressRegion": "MD",
+            "postalCode": "21211",
+            "addressCountry": "Un"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": null,
+      "url": "https://jobs.jhu.edu/job/Baltimore-Data-Engineer%2C-GovEx-MD-21211/1263020900/",
+      "source_type": "ats",
+      "source": "successfactors",
+      "source_domain": "jobs.jhu.edu",
+      "organization_logo": null,
+      "cities_derived": [
+        "Baltimore"
+      ],
+      "regions_derived": [
+        "Maryland"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Baltimore, Maryland, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        39.3051
+      ],
+      "lngs_derived": [
+        -76.6144
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408335418",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T18:54:12.466141",
+      "title": "Professional Engineer II - Bridge Data and Asset Management",
+      "organization": "State of Nebraska",
+      "organization_url": "http://www.nebraska.gov",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "NDOT Central Complex - Lincoln"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "Lincoln, NE"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://son.wd1.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/Professional-Engineer-II---Bridge-Data-and-Asset-Management_JR2025-00013535",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "son.wd1.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Lincoln"
+      ],
+      "regions_derived": [
+        "Nebraska"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Lincoln, Nebraska, United States"
+      ],
+      "timezones_derived": [
+        "America/Chicago"
+      ],
+      "lats_derived": [
+        40.8099
+      ],
+      "lngs_derived": [
+        -96.6784
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408315871",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T18:45:42.738161",
+      "title": "Microsoft Fabric Data Engineer",
+      "organization": "Vancouver Clinic",
+      "organization_url": "",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "87th Ave"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "87th Ave",
+        "Vancouver, WA"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://tvc.wd1.myworkdayjobs.com/TVC/job/87th-Ave/Microsoft-Fabric-Data-Engineer_REQ0011985-1",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "tvc.wd1.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": null,
+      "regions_derived": null,
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        38.9047
+      ],
+      "lngs_derived": [
+        -77.0163
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408213220",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T17:47:52.321583",
+      "title": "Data Engineer",
+      "organization": "iManage",
+      "organization_url": "http://imanage.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Chicago",
+            "addressRegion": "IL",
+            "postalCode": "60606"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://imanagecom.applytojob.com/apply/POdgt0mFTo/Data-Engineer",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "imanagecom.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20170605200437_28SGHFHGEKQQGHCP/logos/20210318185905_iM_logo_rgb.png",
+      "cities_derived": [
+        "Chicago"
+      ],
+      "regions_derived": [
+        "Illinois"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Chicago, Illinois, United States"
+      ],
+      "timezones_derived": [
+        "America/Chicago"
+      ],
+      "lats_derived": [
+        41.8375
+      ],
+      "lngs_derived": [
+        -87.6866
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408211465",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T17:46:28.234839",
+      "title": "Staff Data Engineer - (REMOTE)",
+      "organization": "SailPoint",
+      "organization_url": "",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "United States"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/United-States/Staff-Data-Engineer----REMOTE-_R009900",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "sailpoint.wd1.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": null,
+      "regions_derived": null,
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        38.9047
+      ],
+      "lngs_derived": [
+        -77.0163
+      ],
+      "remote_derived": true
+    },
+    {
+      "id": "1407985254",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T15:46:40.617983",
+      "title": "Optimization Engineer, Data Scientist",
+      "organization": "Abbott",
+      "organization_url": "",
+      "date_validthrough": "2025-03-14T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "United States &gt; Columbus : Columbus Plant"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "United States - Ohio - Columbus"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Ohio---Columbus/Optimization-Engineer--Data-Scientist_31110550",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "abbott.wd5.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Columbus"
+      ],
+      "regions_derived": [
+        "Ohio"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Columbus, Ohio, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        39.9862
+      ],
+      "lngs_derived": [
+        -82.9855
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1407980259",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T15:43:58.74976",
+      "title": "Data Engineer, Senior",
+      "organization": "Booz Allen Hamilton",
+      "organization_url": "",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "Undisclosed Location - USA, VA, Mclean"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "McLean, VA",
+        "Chantilly, VA"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Data-Engineer--Senior_R0215025",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "bah.wd1.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Chantilly",
+        "McLean"
+      ],
+      "regions_derived": [
+        "Virginia",
+        "Virginia"
+      ],
+      "countries_derived": [
+        "United States",
+        "United States"
+      ],
+      "locations_derived": [
+        "Chantilly, Virginia, United States",
+        "McLean, Virginia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York",
+        "America/New_York"
+      ],
+      "lats_derived": [
+        38.8868,
+        38.9436
+      ],
+      "lngs_derived": [
+        -77.4453,
+        -77.1943
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1407874416",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T14:46:24.653152",
+      "title": "Optimization Engineer, Data Scientist",
+      "organization": "Abbott",
+      "organization_url": "",
+      "date_validthrough": "2025-03-14T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "United States &gt; Columbus : Columbus Plant"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "United States - Ohio - Columbus"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Optimization-Engineer--Data-Scientist_31110550-1",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "abbott.wd5.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Columbus"
+      ],
+      "regions_derived": [
+        "Ohio"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Columbus, Ohio, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        39.9862
+      ],
+      "lngs_derived": [
+        -82.9855
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1407869389",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T14:44:18.893018",
+      "title": "Data Engineer",
+      "organization": "Martin Marietta",
+      "organization_url": "",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "New York, NY - 399 Park Avenue"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "New York, NY - 399 Park Avenue"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://mlp.wd5.myworkdayjobs.com/mlpcareers/job/New-York-NY---399-Park-Avenue/Data-Engineer_REQ-24386",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "mlp.wd5.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": null,
+      "regions_derived": null,
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        38.9047
+      ],
+      "lngs_derived": [
+        -77.0163
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408964306",
+      "date_posted": "2025-02-13T00:00:00",
+      "date_created": "2025-02-15T00:07:45.865827",
+      "title": "Data Engineer",
+      "organization": "Sortly",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "addressCountry": {
+              "@type": "Country",
+              "name": "US"
+            },
+            "addressRegion": "NY",
+            "addressLocality": "New York"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": "TELECOMMUTE",
+      "location_requirements_raw": [
+        {
+          "@type": "Country",
+          "name": "US"
+        }
+      ],
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sortly-inc.breezy.hr/p/a0bc02d9b0aa-data-engineer",
+      "source_type": "ats",
+      "source": "breezy",
+      "source_domain": "sortly-inc.breezy.hr",
+      "organization_logo": null,
+      "cities_derived": null,
+      "regions_derived": [
+        "New York"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "New York, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        42.6664
+      ],
+      "lngs_derived": [
+        -73.7987
+      ],
+      "remote_derived": true
+    },
+    {
+      "id": "1409469760",
+      "date_posted": "2025-02-12T19:07:03",
+      "date_created": "2025-02-15T04:22:12.084506",
+      "title": "Data Integration Engineer",
+      "organization": "Ford Global Career Site",
+      "organization_url": "https://efds.fa.em5.oraclecloud.com:443/hcmUI/CandidateExperience/",
+      "date_validthrough": "2025-03-05T19:06:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Dearborn",
+            "addressRegion": "MI",
+            "addressCountry": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "Full time"
+      ],
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41299",
+      "source_type": "ats",
+      "source": "oraclecloud",
+      "source_domain": "efds.fa.em5.oraclecloud.com",
+      "organization_logo": "https://corporate.ford.com/content/dam/corporate/us/en-us/icons/ford-logo.png",
+      "cities_derived": [
+        "Dearborn"
+      ],
+      "regions_derived": [
+        "Michigan"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Dearborn, Michigan, United States"
+      ],
+      "timezones_derived": [
+        "America/Detroit"
+      ],
+      "lats_derived": [
+        42.3127
+      ],
+      "lngs_derived": [
+        -83.213
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1407853727",
+      "date_posted": "2025-02-11T00:00:00",
+      "date_created": "2025-02-14T14:37:52.049311",
+      "title": "Sr Data Engineer (Contract)",
+      "organization": "FirstKey Homes",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Atlanta, Georgia, United States",
+            "addressRegion": "GA",
+            "addressCountry": null,
+            "postalCode": null
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": null,
+      "url": "https://boards.greenhouse.io/firstkeyhomes/jobs/5446876004",
+      "source_type": "ats",
+      "source": "greenhouse",
+      "source_domain": "boards.greenhouse.io",
+      "organization_logo": "https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/005/000/resized/1625238848952.jpeg?1633103153",
+      "cities_derived": [
+        "Atlanta"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Atlanta, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        33.7628
+      ],
+      "lngs_derived": [
+        -84.422
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409448781",
+      "date_posted": "2025-02-08T00:00:00",
+      "date_created": "2025-02-15T04:13:52.052407",
+      "title": "AIML - Distinguished Engineer, Data & ML Innovation",
+      "organization": "Apple",
+      "organization_url": "https://www.apple.com",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "address": {
+            "streetAddress": "",
+            "addressLocality": "Cupertino",
+            "addressRegion": "California",
+            "postalCode": "",
+            "addressCountry": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": null,
+      "url": "https://jobs.apple.com/en-us/details/200590403/aiml-distinguished-engineer-data-ml-innovation",
+      "source_type": "career-site",
+      "source": "Apple",
+      "source_domain": "jobs.apple.com",
+      "organization_logo": "https://www.apple.com/ac/structured-data/images/open_graph_logo.png",
+      "cities_derived": [
+        "Cupertino"
+      ],
+      "regions_derived": [
+        "California"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Cupertino, California, United States"
+      ],
+      "timezones_derived": [
+        "America/Los_Angeles"
+      ],
+      "lats_derived": [
+        37.3168
+      ],
+      "lngs_derived": [
+        -122.0466
+      ],
+      "remote_derived": false
+    }
+  ]
+}
