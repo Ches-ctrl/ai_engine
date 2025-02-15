@@ -1,4 +1,5 @@
 from flask import Flask
+from flask_cors import CORS
 from config import Config
 import logging
 
@@ -11,6 +12,15 @@ logging.basicConfig(
 def create_app(config_class=Config):
     app = Flask(__name__)
     app.config.from_object(config_class)
+
+        # Running CORS in prod, as well as local
+    CORS(app, resources={
+        r"/*": {
+            "origins": app.config['FRONTEND_URL'],
+            "methods": ["GET", "POST"],
+            "allow_headers": ["Content-Type"]
+        }
+    })
 
     @app.route('/', methods=['GET'])
     def api_endpoint():
