@@ -1,10 +1,19 @@
 from typing import List, Dict
 import asyncio
 from concurrent.futures import ThreadPoolExecutor
+from dotenv import load_dotenv
+import os
+import openai
 
 class JobMatchingAgent:
     def __init__(self):
+        load_dotenv()
         self.executor = ThreadPoolExecutor(max_workers=10)
+
+        # Simplified client initialization
+        self.openai_client = openai.OpenAI(
+            api_key=os.getenv('OPENAI_API_KEY')
+        )
         self.base_prompt = """You are an expert HR professional and job matcher with deep experience in talent acquisition.
 Your task is to evaluate how well a candidate's profile matches the specific requirements of this role.
 Analyze the match considering:
@@ -71,6 +80,45 @@ Score matches objectively on a scale of 0-1 where:
 
         return sorted(scored_jobs, key=lambda x: x["match_score"], reverse=True)
 
+    async def process_cv(self, cv_text: str) -> Dict:
+        """
+        Process the CV text to extract structured information
+        """
+        cv_analysis_prompt = """Analyze this CV and extract key information in JSON format:
+        - skills (technical and soft skills)
+        - years_of_experience (total professional experience)
+        - education (list of degrees and certifications)
+        - recent_roles (last 3 positions with company and title)
+        - achievements (key professional achievements)
+        """
+
+        try:
+            response = await asyncio.get_event_loop().run_in_executor(
+                self.executor,
+                self._get_cv_analysis,
+                cv_text,
+                cv_analysis_prompt
+            )
+            return response
+        except Exception as e:
+            print(f"Error processing CV: {str(e)}")
+            return {}
+
+    def _get_cv_analysis(self, cv_text: str, system_prompt: str) -> Dict:
+        """
+        Use OpenAI to analyze the CV text
+        """
+        response = self.openai_client.chat.completions.create(
+            model="gpt-4-turbo-preview",
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": cv_text}
+            ],
+            response_format={ "type": "json_object" }
+        )
+
+        return response.choices[0].message.content
+
     def _score_single_match(self, cv_data: Dict, job: Dict) -> float:
         """
         Score how well a single CV matches a job
@@ -78,6 +126,22 @@ Score matches objectively on a scale of 0-1 where:
         """
         system_prompt = self._generate_custom_prompt(job)
 
-        # TODO: Use the system_prompt with your preferred LLM to generate the actual score
-        # For now, returning a placeholder score
-        return 0.5
+        try:
+            response = self.openai_client.chat.completions.create(
+                model="gpt-4-turbo-preview",
+                messages=[
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": str(cv_data)}
+                ]
+            )
+
+            # Extract the score from the response
+            content = response.choices[0].message.content
+            # Assuming the LLM returns a score in the response
+            # You might need to add more parsing logic depending on the response format
+            score = float(content.strip())
+            return min(max(score, 0.0), 1.0)  # Ensure score is between 0 and 1
+
+        except Exception as e:
+            print(f"Error scoring match: {str(e)}")
+            return 0.0

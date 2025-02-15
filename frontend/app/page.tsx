@@ -23,6 +23,7 @@ export default function Home() {
   const [isLoading, setIsLoading] = useState(false)
   const [context, setContext] = useState('')
   const [selectedFile, setSelectedFile] = useState<File | null>(null)
+  const [error, setError] = useState<string | null>(null)
 
   const handleFileSelect = (file: File) => {
     setSelectedFile(file)
@@ -36,6 +37,8 @@ export default function Home() {
     if (!selectedFile) return
 
     setIsLoading(true)
+    setError(null)
+
     const formData = new FormData()
     formData.append('cv', selectedFile)
     formData.append('context', context)
@@ -45,10 +48,18 @@ export default function Home() {
         method: 'POST',
         body: formData
       })
+
+      if (!response.ok) {
+        const data = await response.json()
+        throw new Error(data.error || 'Failed to process CV')
+      }
+
       const data = await response.json()
-      setMatches(data)
-    } catch (error) {
+      console.log('Parsed CV:', data.text)
+
+    } catch (error: any) {
       console.error('Error:', error)
+      setError(error.message || 'An unexpected error occurred')
     } finally {
       setIsLoading(false)
     }
@@ -128,6 +139,11 @@ export default function Home() {
           </div>
         </div>
       </div>
+      {error && (
+        <div className="fixed top-4 right-4 bg-red-500 text-white px-4 py-2 rounded shadow-lg">
+          {error}
+        </div>
+      )}
     </div>
   )
 }
