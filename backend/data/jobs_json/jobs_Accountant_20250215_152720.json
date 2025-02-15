@@ -1,0 +1,5686 @@
+{
+  "metadata": {
+    "search_title": "Accountant",
+    "search_location": "United States",
+    "timestamp": "20250215_152720",
+    "total_jobs": 100
+  },
+  "jobs": [
+    {
+      "id": "1409645622",
+      "date_posted": "2025-02-15T06:54:46",
+      "date_created": "2025-02-15T05:52:12.959985",
+      "title": "Corporate Tax Accountant",
+      "organization": "Swickard Shared Services",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1650 Spring Gate Ln",
+            "addressLocality": "Las Vegas",
+            "addressRegion": "NV",
+            "postalCode": "89134",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 70000,
+          "maxValue": 90000,
+          "unitText": "YEAR"
+        }
+      },
+      "employment_type": null,
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3055051",
+      "source_type": "ats",
+      "source": "paylocity",
+      "source_domain": "recruiting.paylocity.com",
+      "organization_logo": "https://recruiting.paylocity.com/recruiting/jobs/GetLogoFile?moduleId=8855",
+      "cities_derived": [
+        "Las Vegas"
+      ],
+      "regions_derived": [
+        "Nevada"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Las Vegas, Nevada, United States"
+      ],
+      "timezones_derived": [
+        "America/Los_Angeles"
+      ],
+      "lats_derived": [
+        36.2333
+      ],
+      "lngs_derived": [
+        -115.2654
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409534054",
+      "date_posted": "2025-02-15T05:14:47",
+      "date_created": "2025-02-15T04:54:09.599449",
+      "title": "Staff Accountant - Automotive",
+      "organization": "Ciocca Management Company Inc",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "950 Smile Way",
+            "addressLocality": "York",
+            "addressRegion": "PA",
+            "postalCode": "17404",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 18,
+          "maxValue": 25,
+          "unitText": "HOUR"
+        }
+      },
+      "employment_type": null,
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3054932",
+      "source_type": "ats",
+      "source": "paylocity",
+      "source_domain": "recruiting.paylocity.com",
+      "organization_logo": "https://recruiting.paylocity.com/recruiting/jobs/GetLogoFile?moduleId=24104",
+      "cities_derived": [
+        "York"
+      ],
+      "regions_derived": [
+        "Pennsylvania"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "York, Pennsylvania, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        39.9651
+      ],
+      "lngs_derived": [
+        -76.7315
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409654126",
+      "date_posted": "2025-02-15T04:51:35",
+      "date_created": "2025-02-15T06:01:36.786964",
+      "title": "Senior Accountant",
+      "organization": "Vector Solutions",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4890 W Kennedy Blvd",
+            "addressLocality": "Tampa",
+            "addressRegion": "FL",
+            "postalCode": "33609",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": null,
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3054851",
+      "source_type": "ats",
+      "source": "paylocity",
+      "source_domain": "recruiting.paylocity.com",
+      "organization_logo": "https://recruiting.paylocity.com/recruiting/jobs/GetLogoFile?moduleId=11241",
+      "cities_derived": [
+        "Tampa"
+      ],
+      "regions_derived": [
+        "Florida"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Tampa, Florida, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        27.9945
+      ],
+      "lngs_derived": [
+        -82.4447
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408945360",
+      "date_posted": "2025-02-15T02:54:27",
+      "date_created": "2025-02-14T23:58:45.150461",
+      "title": "Tax Accountant",
+      "organization": "Everstory Partners",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "955 Keller Road",
+            "addressLocality": "Altamonte Springs",
+            "addressRegion": "FL",
+            "postalCode": "32714",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": null,
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3052064",
+      "source_type": "ats",
+      "source": "paylocity",
+      "source_domain": "recruiting.paylocity.com",
+      "organization_logo": "https://recruiting.paylocity.com/recruiting/jobs/GetLogoFile?moduleId=24374",
+      "cities_derived": [
+        "Altamonte Springs"
+      ],
+      "regions_derived": [
+        "Florida"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Altamonte Springs, Florida, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        28.6615
+      ],
+      "lngs_derived": [
+        -81.3953
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409651919",
+      "date_posted": "2025-02-15T02:21:18",
+      "date_created": "2025-02-15T05:58:55.181707",
+      "title": "Revenue Accountant",
+      "organization": "Living Resources Corp",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Albany",
+            "addressRegion": "NY",
+            "postalCode": "12203",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 69000,
+          "maxValue": 73000,
+          "unitText": "YEAR"
+        }
+      },
+      "employment_type": null,
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3054172",
+      "source_type": "ats",
+      "source": "paylocity",
+      "source_domain": "recruiting.paylocity.com",
+      "organization_logo": "https://recruiting.paylocity.com/recruiting/jobs/GetLogoFile?moduleId=23275",
+      "cities_derived": [
+        "Albany"
+      ],
+      "regions_derived": [
+        "New York"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Albany, New York, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        42.6664
+      ],
+      "lngs_derived": [
+        -73.7987
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409058893",
+      "date_posted": "2025-02-15T01:27:00",
+      "date_created": "2025-02-15T00:51:15.749164",
+      "title": "Senior Accountant",
+      "organization": "MISSIONWELL LLC",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Pasadena",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": null,
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3047672",
+      "source_type": "ats",
+      "source": "paylocity",
+      "source_domain": "recruiting.paylocity.com",
+      "organization_logo": "https://recruiting.paylocity.com/recruiting/jobs/GetLogoFile?moduleId=31891",
+      "cities_derived": [
+        "Pasadena"
+      ],
+      "regions_derived": [
+        "California"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Pasadena, California, United States"
+      ],
+      "timezones_derived": [
+        "America/Los_Angeles"
+      ],
+      "lats_derived": [
+        34.1597
+      ],
+      "lngs_derived": [
+        -118.139
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409229768",
+      "date_posted": "2025-02-15T01:09:33",
+      "date_created": "2025-02-15T02:18:55.133258",
+      "title": "Accountant II",
+      "organization": "WM",
+      "organization_url": "https://emcm.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/",
+      "date_validthrough": "2025-02-22T01:09:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Sun Valley",
+            "addressRegion": "CA",
+            "addressCountry": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "Full time"
+      ],
+      "url": "https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2328369",
+      "source_type": "ats",
+      "source": "oraclecloud",
+      "source_domain": "emcm.fa.us2.oraclecloud.com",
+      "organization_logo": "https://cdn.wm.com/content/dam/wm/icons/branding/wm-logo-web-header-footer.svg",
+      "cities_derived": [
+        "Sun Valley"
+      ],
+      "regions_derived": [
+        "Nevada"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Sun Valley, Nevada, United States"
+      ],
+      "timezones_derived": [
+        "America/Los_Angeles"
+      ],
+      "lats_derived": [
+        39.6104
+      ],
+      "lngs_derived": [
+        -119.777
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409644200",
+      "date_posted": "2025-02-15T01:07:23",
+      "date_created": "2025-02-15T05:51:49.356859",
+      "title": "Accountant",
+      "organization": "Mittera Group Inc",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "5085 NE 17th St",
+            "addressLocality": "Des Moines",
+            "addressRegion": "IA",
+            "postalCode": "50313-2114",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": null,
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3053757",
+      "source_type": "ats",
+      "source": "paylocity",
+      "source_domain": "recruiting.paylocity.com",
+      "organization_logo": "https://recruiting.paylocity.com/recruiting/jobs/GetLogoFile?moduleId=20614",
+      "cities_derived": [
+        "Des Moines"
+      ],
+      "regions_derived": [
+        "Iowa"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Des Moines, Iowa, United States"
+      ],
+      "timezones_derived": [
+        "America/Chicago"
+      ],
+      "lats_derived": [
+        41.5725
+      ],
+      "lngs_derived": [
+        -93.6105
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409805858",
+      "date_posted": "2025-02-15T00:00:00",
+      "date_created": "2025-02-15T07:12:49.452074",
+      "title": "Accountant",
+      "organization": "Crisis24",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "",
+            "addressLocality": "Annapolis",
+            "addressRegion": "Maryland",
+            "postalCode": null,
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": {
+        "@type": "MonetaryAmount",
+        "value": {
+          "@type": "QuantitativeValue",
+          "value": null,
+          "minValue": null,
+          "maxValue": null,
+          "unitText": "YEAR"
+        }
+      },
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://globalus242.dayforcehcm.com/CandidatePortal/en-US/IJETCONNECT/Posting/View/12822",
+      "source_type": "ats",
+      "source": "dayforce",
+      "source_domain": "globalus242.dayforcehcm.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Annapolis"
+      ],
+      "regions_derived": [
+        "Maryland"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Annapolis, Maryland, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        38.9706
+      ],
+      "lngs_derived": [
+        -76.5047
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408346724",
+      "date_posted": "2025-02-14T23:46:23",
+      "date_created": "2025-02-14T19:00:03.581559",
+      "title": "Staff Accountant",
+      "organization": "ECS4KIDS",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "8649 Baypine Road",
+            "addressLocality": "Jacksonville",
+            "addressRegion": "FL",
+            "postalCode": "32256",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "unitText": "YEAR",
+          "value": 55349
+        }
+      },
+      "employment_type": null,
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3053323",
+      "source_type": "ats",
+      "source": "paylocity",
+      "source_domain": "recruiting.paylocity.com",
+      "organization_logo": "https://recruiting.paylocity.com/recruiting/jobs/GetLogoFile?moduleId=19815",
+      "cities_derived": [
+        "Jacksonville"
+      ],
+      "regions_derived": [
+        "Florida"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Jacksonville, Florida, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        30.3322
+      ],
+      "lngs_derived": [
+        -81.6749
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408630470",
+      "date_posted": "2025-02-14T23:31:39",
+      "date_created": "2025-02-14T21:23:08.238546",
+      "title": "Staff Accountant I",
+      "organization": "Rausch Coleman Development Group Inc.",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4058 NORTH COLLEGE AVENUE",
+            "addressLocality": "FAYETTEVILLE",
+            "addressRegion": "AR",
+            "postalCode": "72703",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": null,
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3053126",
+      "source_type": "ats",
+      "source": "paylocity",
+      "source_domain": "recruiting.paylocity.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Fayetteville"
+      ],
+      "regions_derived": [
+        "Arkansas"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Fayetteville, Arkansas, United States"
+      ],
+      "timezones_derived": [
+        "America/Chicago"
+      ],
+      "lats_derived": [
+        36.0714
+      ],
+      "lngs_derived": [
+        -94.1661
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408357194",
+      "date_posted": "2025-02-14T23:20:14",
+      "date_created": "2025-02-14T19:05:14.097595",
+      "title": "Accountant",
+      "organization": "Dion's",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "8525 Jefferson St NE",
+            "addressLocality": "Albuquerque",
+            "addressRegion": "NM",
+            "postalCode": "87113-1603",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 24,
+          "maxValue": 31,
+          "unitText": "HOUR"
+        }
+      },
+      "employment_type": null,
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3053183",
+      "source_type": "ats",
+      "source": "paylocity",
+      "source_domain": "recruiting.paylocity.com",
+      "organization_logo": "https://recruiting.paylocity.com/recruiting/jobs/GetLogoFile?moduleId=7435",
+      "cities_derived": [
+        "Albuquerque"
+      ],
+      "regions_derived": [
+        "New Mexico"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Albuquerque, New Mexico, United States"
+      ],
+      "timezones_derived": [
+        "America/Denver"
+      ],
+      "lats_derived": [
+        35.1054
+      ],
+      "lngs_derived": [
+        -106.6465
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408823029",
+      "date_posted": "2025-02-14T22:52:29.376",
+      "date_created": "2025-02-14T22:57:04.686446",
+      "title": "Accountant",
+      "organization": "Cirrus Asset Management",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "address": {
+            "addressLocality": "Woodland Hills",
+            "addressRegion": "California",
+            "postalCode": "91364",
+            "addressCountry": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "Woodland Hills, CA, United States"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "Full-time"
+      ],
+      "url": "https://jobs.smartrecruiters.com/CirrusAssetManagement/744000042721391-accountant",
+      "source_type": "ats",
+      "source": "smartrecruiters",
+      "source_domain": "jobs.smartrecruiters.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Woodland Hills"
+      ],
+      "regions_derived": [
+        "Utah"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Woodland Hills, Utah, United States"
+      ],
+      "timezones_derived": [
+        "America/Denver"
+      ],
+      "lats_derived": [
+        40.0132
+      ],
+      "lngs_derived": [
+        -111.6558
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408098592",
+      "date_posted": "2025-02-14T21:36:17",
+      "date_created": "2025-02-14T16:45:35.935614",
+      "title": "Senior Accountant",
+      "organization": "Browne Consulting Group",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Boston",
+            "addressRegion": "MA",
+            "postalCode": "02119",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": null,
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3052232",
+      "source_type": "ats",
+      "source": "paylocity",
+      "source_domain": "recruiting.paylocity.com",
+      "organization_logo": "https://recruiting.paylocity.com/recruiting/jobs/GetLogoFile?moduleId=20419",
+      "cities_derived": [
+        "Boston"
+      ],
+      "regions_derived": [
+        "Massachusetts"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Boston, Massachusetts, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        42.3188
+      ],
+      "lngs_derived": [
+        -71.0852
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409449245",
+      "date_posted": "2025-02-14T20:15:14",
+      "date_created": "2025-02-15T04:13:59.228641",
+      "title": "Staff Accountant (Entry Level)",
+      "organization": "Boscov's Department Store, LLC",
+      "organization_url": "https://elhr.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Reading",
+            "addressRegion": "PA",
+            "addressCountry": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "Full time"
+      ],
+      "url": "https://elhr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/9917",
+      "source_type": "ats",
+      "source": "oraclecloud",
+      "source_domain": "elhr.fa.us2.oraclecloud.com",
+      "organization_logo": "https://elhr.fa.us2.oraclecloud.com/cs/groups/public/documents/digitalmedia/ytaw/nzuz/~edisp/ucmfa00753312.jpg",
+      "cities_derived": [
+        "Reading"
+      ],
+      "regions_derived": [
+        "Pennsylvania"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Reading, Pennsylvania, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        40.34
+      ],
+      "lngs_derived": [
+        -75.9267
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1407875155",
+      "date_posted": "2025-02-14T19:50:21",
+      "date_created": "2025-02-14T14:46:54.10837",
+      "title": "Senior/Supervisor Accountant - Employee Benefit Plan Auditor",
+      "organization": "Belfint, Lyons & Shuman, P.A.",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1011 Centre Road",
+            "addressLocality": "Wilmington",
+            "addressRegion": "DE",
+            "postalCode": "19805",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": null,
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3052183",
+      "source_type": "ats",
+      "source": "paylocity",
+      "source_domain": "recruiting.paylocity.com",
+      "organization_logo": "https://recruiting.paylocity.com/recruiting/jobs/GetLogoFile?moduleId=31833",
+      "cities_derived": [
+        "Wilmington"
+      ],
+      "regions_derived": [
+        "Delaware"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Wilmington, Delaware, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        39.7415
+      ],
+      "lngs_derived": [
+        -75.5416
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408192938",
+      "date_posted": "2025-02-14T18:32:10",
+      "date_created": "2025-02-14T17:38:23.421662",
+      "title": "General Ledger Accountant",
+      "organization": "PLANET AID INC",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "47 Sumner St",
+            "addressLocality": "Milford",
+            "addressRegion": "MA",
+            "postalCode": "01757",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 70000,
+          "maxValue": 75000,
+          "unitText": "YEAR"
+        }
+      },
+      "employment_type": null,
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3052081",
+      "source_type": "ats",
+      "source": "paylocity",
+      "source_domain": "recruiting.paylocity.com",
+      "organization_logo": "https://recruiting.paylocity.com/recruiting/jobs/GetLogoFile?moduleId=6714",
+      "cities_derived": [
+        "Milford"
+      ],
+      "regions_derived": [
+        "Massachusetts"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Milford, Massachusetts, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        42.1565
+      ],
+      "lngs_derived": [
+        -71.5188
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408175010",
+      "date_posted": "2025-02-14T17:27:09.43",
+      "date_created": "2025-02-14T17:29:06.093187",
+      "title": "Senior Accountant",
+      "organization": "Town of Clarkdale",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "address": {
+            "streetAddress": "North 9th Street 39",
+            "addressLocality": "Clarkdale",
+            "addressRegion": "Arizona",
+            "postalCode": "86324",
+            "addressCountry": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "39 N 9th St, Clarkdale, AZ 86324, USA"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "Full-time"
+      ],
+      "url": "https://jobs.smartrecruiters.com/TownOfClarkdale/744000042678986-senior-accountant",
+      "source_type": "ats",
+      "source": "smartrecruiters",
+      "source_domain": "jobs.smartrecruiters.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Clarkdale"
+      ],
+      "regions_derived": [
+        "Arizona"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Clarkdale, Arizona, United States"
+      ],
+      "timezones_derived": [
+        "America/Phoenix"
+      ],
+      "lats_derived": [
+        34.7501
+      ],
+      "lngs_derived": [
+        -112.0555
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408149564",
+      "date_posted": "2025-02-14T17:15:48.03",
+      "date_created": "2025-02-14T17:17:05.269945",
+      "title": "Senior Accountant",
+      "organization": "Town of Clarkdale",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "address": {
+            "streetAddress": "North 9th Street 39",
+            "addressLocality": "Clarkdale",
+            "addressRegion": "Arizona",
+            "postalCode": "86324",
+            "addressCountry": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "39 N 9th St, Clarkdale, AZ 86324, USA"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "Full-time"
+      ],
+      "url": "https://jobs.smartrecruiters.com/TownOfClarkdale/744000042677286-senior-accountant",
+      "source_type": "ats",
+      "source": "smartrecruiters",
+      "source_domain": "jobs.smartrecruiters.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Clarkdale"
+      ],
+      "regions_derived": [
+        "Arizona"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Clarkdale, Arizona, United States"
+      ],
+      "timezones_derived": [
+        "America/Phoenix"
+      ],
+      "lats_derived": [
+        34.7501
+      ],
+      "lngs_derived": [
+        -112.0555
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408129934",
+      "date_posted": "2025-02-14T16:10:51",
+      "date_created": "2025-02-14T17:05:17.031045",
+      "title": "Cost Accountant",
+      "organization": "Mauser Packaging Solutions",
+      "organization_url": "https://hdpn.fa.us6.oraclecloud.com:443/hcmUI/CandidateExperience/en/sites/CX_1",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Homerville",
+            "addressRegion": "GA",
+            "addressCountry": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "Full time"
+      ],
+      "url": "https://hdpn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2743",
+      "source_type": "ats",
+      "source": "oraclecloud",
+      "source_domain": "hdpn.fa.us6.oraclecloud.com",
+      "organization_logo": "https://hdpn.fa.us6.oraclecloud.com/cs/groups/public/documents/document/yta3/ndu1/~edisp/ucmfa07455614.png",
+      "cities_derived": [
+        "Homerville"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Homerville, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        31.0385
+      ],
+      "lngs_derived": [
+        -82.742
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1407786956",
+      "date_posted": "2025-02-14T14:02:08.188",
+      "date_created": "2025-02-14T14:05:08.624867",
+      "title": "Senior Accountant",
+      "organization": "UTAC",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "address": {
+            "streetAddress": "Centennial Drive 15800",
+            "addressLocality": "Northville Township",
+            "addressRegion": "Michigan",
+            "postalCode": "48168",
+            "addressCountry": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "15800 Centennial Dr, Northville Township, MI 48168, USA"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "Full-time"
+      ],
+      "url": "https://jobs.smartrecruiters.com/UTAC/744000042631225-senior-accountant",
+      "source_type": "ats",
+      "source": "smartrecruiters",
+      "source_domain": "jobs.smartrecruiters.com",
+      "organization_logo": null,
+      "cities_derived": null,
+      "regions_derived": [
+        "Michigan"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Michigan, United States"
+      ],
+      "timezones_derived": [
+        "America/Detroit"
+      ],
+      "lats_derived": [
+        42.7142
+      ],
+      "lngs_derived": [
+        -84.5601
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408808179",
+      "date_posted": "2025-02-14T02:47:01",
+      "date_created": "2025-02-14T22:46:52.760453",
+      "title": "Senior Accountant",
+      "organization": "DotHouse Health",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1353 DORCHESTER AVE",
+            "addressLocality": "DORCHESTER",
+            "addressRegion": "MA",
+            "postalCode": "02122",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": null,
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/1090055",
+      "source_type": "ats",
+      "source": "paylocity",
+      "source_domain": "recruiting.paylocity.com",
+      "organization_logo": "https://recruiting.paylocity.com/recruiting/jobs/GetLogoFile?moduleId=19329",
+      "cities_derived": [
+        "Dorchester"
+      ],
+      "regions_derived": [
+        "Wisconsin"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Dorchester, Wisconsin, United States"
+      ],
+      "timezones_derived": [
+        "America/Chicago"
+      ],
+      "lats_derived": [
+        45.0025
+      ],
+      "lngs_derived": [
+        -90.3308
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409828441",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-15T07:23:06.208774",
+      "title": "Accountant (General Ledger)",
+      "organization": "Royal American Companies",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "streetAddress": "FIRST SERVICE CORPORATION OF PANAMA CITY INC",
+            "addressLocality": "Panama City",
+            "addressRegion": "FL",
+            "postalCode": 32405,
+            "addressCountry": "USA"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 16,
+          "maxValue": 19,
+          "unitText": "HOUR"
+        }
+      },
+      "employment_type": [
+        "OTHER"
+      ],
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=289182&clientkey=4EE386C19FA6289C4A71C42E6D937B03",
+      "source_type": "ats",
+      "source": "paycom",
+      "source_domain": "paycomonline.net",
+      "organization_logo": "https://www.paycomonline.net/v4/ats/web.php/application/style/logo?clientkey=4EE386C19FA6289C4A71C42E6D937B03",
+      "cities_derived": [
+        "Panama City"
+      ],
+      "regions_derived": [
+        "Florida"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Panama City, Florida, United States"
+      ],
+      "timezones_derived": [
+        "America/Chicago"
+      ],
+      "lats_derived": [
+        30.1995
+      ],
+      "lngs_derived": [
+        -85.6003
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409400956",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-15T03:49:05.998671",
+      "title": "Sr. Staff Accountant",
+      "organization": "Global Mail, Inc.",
+      "organization_url": "https://careers.dhl.com/global/en",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "26.1003654",
+            "longitude": "-80.3997748"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "Weston",
+            "addressRegion": "Florida"
+          },
+          "@type": "Place"
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://careers.dhl.com/global/en/job/DPDHGLOBALAV276830ENGLOBALEXTERNAL/Sr-Staff-Accountant",
+      "source_type": "ats",
+      "source": "phenompeople",
+      "source_domain": "careers.dhl.com",
+      "organization_logo": "https://assets.phenompeople.com/CareerConnectResources/pp/DPDHGLOBAL/images/job_logo_config-1621943392013.jpg",
+      "cities_derived": [
+        "Weston"
+      ],
+      "regions_derived": [
+        "Florida"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Weston, Florida, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        26.1006
+      ],
+      "lngs_derived": [
+        -80.4054
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409328578",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-15T03:13:23.187416",
+      "title": "Project Accountant",
+      "organization": "Knickerbocker Group Inc",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Boothbay",
+            "addressRegion": "Maine",
+            "postalCode": "04537",
+            "addressCountry": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "Boothbay, Maine"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "OTHER"
+      ],
+      "url": "https://knickerbockergroup.bamboohr.com/careers/179",
+      "source_type": "ats",
+      "source": "bamboohr",
+      "source_domain": "knickerbockergroup.bamboohr.com",
+      "organization_logo": "https://images7.bamboohr.com/249734/logos/cropped.jpg?v=51",
+      "cities_derived": [
+        "Boothbay"
+      ],
+      "regions_derived": [
+        "Maine"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Boothbay, Maine, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        43.8892
+      ],
+      "lngs_derived": [
+        -69.6224
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409167160",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-15T01:46:29.693425",
+      "title": "Senior Accountant I",
+      "organization": "Bluetooth SIG, Inc.",
+      "organization_url": "https://bluetooth.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Kirkland",
+            "addressRegion": "WA",
+            "postalCode": "98033"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "unitText": "YEAR",
+          "minValue": 99000,
+          "maxValue": 116000
+        }
+      },
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://bluetoothsiginc.applytojob.com/apply/5FwGmO0cDg/Senior-Accountant-I",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "bluetoothsiginc.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220105204133_QF6YN8NX3K8OW3WN/logos/20220419050924_logo.png",
+      "cities_derived": [
+        "Kirkland"
+      ],
+      "regions_derived": [
+        "Washington"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Kirkland, Washington, United States"
+      ],
+      "timezones_derived": [
+        "America/Los_Angeles"
+      ],
+      "lats_derived": [
+        47.697
+      ],
+      "lngs_derived": [
+        -122.2057
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409152927",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-15T01:40:01.343954",
+      "title": "Senior Accountant - Corporate Location",
+      "organization": "NewYork-Presbyterian Hospital",
+      "organization_url": "",
+      "date_validthrough": "2025-03-01T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "NYP/Weill Cornell Medical Center"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "NYP/Weill Cornell Medical Center"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://nyp.wd1.myworkdayjobs.com/nypcareers/job/NYPWeill-Cornell-Medical-Center/Senior-Accountant---Corporate-Location_00859861-1",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "nyp.wd1.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": null,
+      "regions_derived": null,
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        38.9047
+      ],
+      "lngs_derived": [
+        -77.0163
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409135859",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-15T01:31:49.468925",
+      "title": "Fiscal Accountant",
+      "organization": "Aston Carter",
+      "organization_url": "https://careers.astoncarter.com/us/en",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.2584515",
+            "longitude": "-76.88650849999999"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "postalCode": "17101",
+            "addressCountry": "USA",
+            "addressLocality": "Harrisburg",
+            "addressRegion": "Pennsylvania"
+          },
+          "@type": "Place"
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": "24",
+          "maxValue": "26",
+          "unitText": "hour"
+        }
+      },
+      "employment_type": [
+        "OTHER"
+      ],
+      "url": "https://careers.astoncarter.com/us/en/job/JP-005068879/Fiscal-Accountant",
+      "source_type": "ats",
+      "source": "phenompeople",
+      "source_domain": "careers.astoncarter.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Harrisburg"
+      ],
+      "regions_derived": [
+        "Pennsylvania"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Harrisburg, Pennsylvania, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        40.2752
+      ],
+      "lngs_derived": [
+        -76.8843
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409135852",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-15T01:31:48.987194",
+      "title": "Jr. Accountant",
+      "organization": "Aston Carter",
+      "organization_url": "https://careers.astoncarter.com/us/en",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.51593039999999",
+            "longitude": "-75.55518579999999"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "postalCode": "18062",
+            "addressCountry": "USA",
+            "addressLocality": "Macungie",
+            "addressRegion": "Pennsylvania"
+          },
+          "@type": "Place"
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": "21",
+          "maxValue": "21",
+          "unitText": "hour"
+        }
+      },
+      "employment_type": [
+        "OTHER"
+      ],
+      "url": "https://careers.astoncarter.com/us/en/job/JP-005069212/Jr-Accountant",
+      "source_type": "ats",
+      "source": "phenompeople",
+      "source_domain": "careers.astoncarter.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Lower Macungie"
+      ],
+      "regions_derived": [
+        "Pennsylvania"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Lower Macungie, Pennsylvania, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        40.5303
+      ],
+      "lngs_derived": [
+        -75.57
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409135845",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-15T01:31:48.591125",
+      "title": "Senior Accountant",
+      "organization": "Aston Carter",
+      "organization_url": "https://careers.astoncarter.com/us/en",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "39.4241558",
+            "longitude": "-77.3668965"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "postalCode": "21701",
+            "addressCountry": "USA",
+            "addressLocality": "Frederick",
+            "addressRegion": "Maryland"
+          },
+          "@type": "Place"
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": "30",
+          "maxValue": "47.5",
+          "unitText": "hour"
+        }
+      },
+      "employment_type": [
+        "OTHER"
+      ],
+      "url": "https://careers.astoncarter.com/us/en/job/JP-005068652/Senior-Accountant",
+      "source_type": "ats",
+      "source": "phenompeople",
+      "source_domain": "careers.astoncarter.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Frederick"
+      ],
+      "regions_derived": [
+        "Maryland"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Frederick, Maryland, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        39.4337
+      ],
+      "lngs_derived": [
+        -77.4141
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409135828",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-15T01:31:48.128102",
+      "title": "Jr. Accountant",
+      "organization": "Aston Carter",
+      "organization_url": "https://careers.astoncarter.com/us/en",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.51593039999999",
+            "longitude": "-75.55518579999999"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "postalCode": "18062",
+            "addressCountry": "USA",
+            "addressLocality": "Macungie",
+            "addressRegion": "Pennsylvania"
+          },
+          "@type": "Place"
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": "21",
+          "maxValue": "21",
+          "unitText": "hour"
+        }
+      },
+      "employment_type": [
+        "OTHER"
+      ],
+      "url": "https://careers.astoncarter.com/us/en/job/JP-005068566/Jr-Accountant",
+      "source_type": "ats",
+      "source": "phenompeople",
+      "source_domain": "careers.astoncarter.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Lower Macungie"
+      ],
+      "regions_derived": [
+        "Pennsylvania"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Lower Macungie, Pennsylvania, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        40.5303
+      ],
+      "lngs_derived": [
+        -75.57
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409135823",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-15T01:31:48.081357",
+      "title": "Cost Accountant 2",
+      "organization": "Aston Carter",
+      "organization_url": "https://careers.astoncarter.com/us/en",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "29.8921835",
+            "longitude": "-81.3139313"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "postalCode": "32080",
+            "addressCountry": "USA",
+            "addressLocality": "St. Augustine",
+            "addressRegion": "Florida"
+          },
+          "@type": "Place"
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": "36",
+          "maxValue": "43",
+          "unitText": "hour"
+        }
+      },
+      "employment_type": [
+        "OTHER"
+      ],
+      "url": "https://careers.astoncarter.com/us/en/job/JP-005068345/Cost-Accountant-2",
+      "source_type": "ats",
+      "source": "phenompeople",
+      "source_domain": "careers.astoncarter.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "St. Augustine"
+      ],
+      "regions_derived": [
+        "Florida"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "St. Augustine, Florida, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        29.8976
+      ],
+      "lngs_derived": [
+        -81.31
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409131964",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-15T01:30:22.301939",
+      "title": "Senior Accountant",
+      "organization": "Bad Birdie",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "addressCountry": {
+              "@type": "Country",
+              "name": "US"
+            },
+            "addressRegion": "AZ",
+            "addressLocality": "Scottsdale"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://bad-birdie.breezy.hr/p/d68ecfe35f50-senior-accountant",
+      "source_type": "ats",
+      "source": "breezy",
+      "source_domain": "bad-birdie.breezy.hr",
+      "organization_logo": null,
+      "cities_derived": [
+        "Scottsdale"
+      ],
+      "regions_derived": [
+        "Arizona"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Scottsdale, Arizona, United States"
+      ],
+      "timezones_derived": [
+        "America/Phoenix"
+      ],
+      "lats_derived": [
+        33.6872
+      ],
+      "lngs_derived": [
+        -111.8651
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409051701",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-15T00:47:34.793417",
+      "title": "Accountant, Retail, Inventory Accounting",
+      "organization": "Nutrien",
+      "organization_url": null,
+      "date_validthrough": "2025-03-07T07:00:00",
+      "locations_raw": [
+        {
+          "address": {
+            "addressLocality": "Loveland",
+            "addressRegion": "CO",
+            "postalCode": "80538",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": null,
+      "url": "https://jobs.nutrien.com/North-America/job/Loveland-Accountant%2C-Retail%2C-Inventory-Accounting-CO-80538/589644417/",
+      "source_type": "ats",
+      "source": "successfactors",
+      "source_domain": "jobs.nutrien.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Loveland"
+      ],
+      "regions_derived": [
+        "Colorado"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Loveland, Colorado, United States"
+      ],
+      "timezones_derived": [
+        "America/Denver"
+      ],
+      "lats_derived": [
+        40.4166
+      ],
+      "lngs_derived": [
+        -105.0623
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1409045056",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-15T00:42:15.361616",
+      "title": "Accountant",
+      "organization": "TEKsystems",
+      "organization_url": "https://careers.teksystems.com/us/en",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "41.8809702",
+            "longitude": "-72.7289272"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "postalCode": "06006",
+            "addressCountry": "USA",
+            "addressLocality": "Windsor",
+            "addressRegion": "Connecticut"
+          },
+          "@type": "Place"
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": "25",
+          "maxValue": "35",
+          "unitText": "hour"
+        }
+      },
+      "employment_type": [
+        "OTHER"
+      ],
+      "url": "https://careers.teksystems.com/us/en/job/JP-005066419/Accountant",
+      "source_type": "ats",
+      "source": "phenompeople",
+      "source_domain": "careers.teksystems.com",
+      "organization_logo": "https://assets.phenompeople.com/CareerConnectResources/pp/TESYUS/images/job_logo_config-1587980460568.png",
+      "cities_derived": [
+        "Windsor"
+      ],
+      "regions_derived": [
+        "Connecticut"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Windsor, Connecticut, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        41.871
+      ],
+      "lngs_derived": [
+        -72.6736
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408931703",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T23:47:00.633241",
+      "title": "Staff Accountant",
+      "organization": "New Balance",
+      "organization_url": "",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "NBD 221-223 North Beacon Street, Brighton"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "NBD 221-223 North Beacon Street, Brighton"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://newbalance.wd1.myworkdayjobs.com/Careers/job/NBD-221-223-North-Beacon-Street-Brighton/Staff-Accountant_R35157",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "newbalance.wd1.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": null,
+      "regions_derived": null,
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        38.9047
+      ],
+      "lngs_derived": [
+        -77.0163
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408816672",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T22:51:24.25902",
+      "title": "Fund Accountant",
+      "organization": "Metropolitan State University of Denver",
+      "organization_url": "",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "Auraria Campus"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "Denver, Colorado"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://msudenver.wd1.myworkdayjobs.com/MSUDenver/job/Denver-Colorado/Fund-Accountant_JR103563",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "msudenver.wd1.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Denver"
+      ],
+      "regions_derived": [
+        "Colorado"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Denver, Colorado, United States"
+      ],
+      "timezones_derived": [
+        "America/Denver"
+      ],
+      "lats_derived": [
+        39.762
+      ],
+      "lngs_derived": [
+        -104.8758
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408803764",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T22:44:42.792695",
+      "title": "Accountant",
+      "organization": "Hospital Sisters Health System",
+      "organization_url": "",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "Springfield - Hollis Building"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "Springfield, IL"
+      ],
+      "location_type": "TELECOMMUTE",
+      "location_requirements_raw": [
+        {
+          "@type": "Country",
+          "name": "United States of America"
+        }
+      ],
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://hshs.wd1.myworkdayjobs.com/hshscareers/job/Springfield-IL/Accountant_R1026682",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "hshs.wd1.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Springfield"
+      ],
+      "regions_derived": [
+        "Illinois"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Springfield, Illinois, United States"
+      ],
+      "timezones_derived": [
+        "America/Chicago"
+      ],
+      "lats_derived": [
+        39.7709
+      ],
+      "lngs_derived": [
+        -89.654
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408790129",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T22:38:36.481627",
+      "title": "Accountant I",
+      "organization": "Nucor",
+      "organization_url": null,
+      "date_validthrough": "2025-03-01T05:00:00",
+      "locations_raw": [
+        {
+          "address": {
+            "addressLocality": "Lexington",
+            "addressRegion": "NC",
+            "postalCode": "27292",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": null,
+      "url": "https://jobs.nucor.com/job/Lexington-Accountant-I-NC-27292/1263096200/",
+      "source_type": "ats",
+      "source": "successfactors",
+      "source_domain": "jobs.nucor.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Lexington"
+      ],
+      "regions_derived": [
+        "North Carolina"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Lexington, North Carolina, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        35.8018
+      ],
+      "lngs_derived": [
+        -80.2682
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408767314",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T22:31:29.561254",
+      "title": "Project Accountant",
+      "organization": "LPA, Inc.",
+      "organization_url": "{}",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "San Antonio",
+            "addressRegion": "Texas",
+            "addressCountry": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://jobs.ashbyhq.com/lpadesignstudios/9c9e199b-3cb1-4dd5-8647-0729ec490c89",
+      "source_type": "ats",
+      "source": "ashby",
+      "source_domain": "jobs.ashbyhq.com",
+      "organization_logo": "https://app.ashbyhq.com/api/images/org-theme-logo/db97448a-b2b0-4a55-9e8e-e7c6eba59ac8/b86dbcac-186d-4715-bc89-f452014431e6/2e8ea467-5464-42bb-a543-affb7fd7d1b3.png",
+      "cities_derived": [
+        "San Antonio"
+      ],
+      "regions_derived": [
+        "Texas"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "San Antonio, Texas, United States"
+      ],
+      "timezones_derived": [
+        "America/Chicago"
+      ],
+      "lats_derived": [
+        29.4632
+      ],
+      "lngs_derived": [
+        -98.5238
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408695204",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T21:52:53.909295",
+      "title": "Accountant Sr",
+      "organization": "Albany Medical Center",
+      "organization_url": "",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "1275 Broadway"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "1275 Broadway Albany, NY 12204"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://albanymed.wd5.myworkdayjobs.com/Albany_Med/job/1275-Broadway-Albany-NY-12204/Accountant-Sr_63706",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "albanymed.wd5.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": null,
+      "regions_derived": null,
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        38.9047
+      ],
+      "lngs_derived": [
+        -77.0163
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408691618",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T21:51:24.09179",
+      "title": "Senior Staff Accountant",
+      "organization": "Circle K",
+      "organization_url": "",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "Nonstore MCM Columbus IN"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "Nonstore MCM Columbus IN"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://circlek.wd3.myworkdayjobs.com/CircleKStoreJobs/job/Nonstore-MCM-Columbus-IN/Senior-Staff-Accountant_R485064-1",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "circlek.wd3.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": null,
+      "regions_derived": null,
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        38.9047
+      ],
+      "lngs_derived": [
+        -77.0163
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408678686",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T21:45:22.920306",
+      "title": "Senior Accountant",
+      "organization": "Horizon Media",
+      "organization_url": "",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "New York"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "New York"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://horizonmedia.wd1.myworkdayjobs.com/CareerOpportunities/job/New-York/Senior-Accountant_R0015209",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "horizonmedia.wd1.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": null,
+      "regions_derived": [
+        "New York"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "New York, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        42.6664
+      ],
+      "lngs_derived": [
+        -73.7987
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408678415",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T21:45:15.943685",
+      "title": "Senior Accountant I",
+      "organization": "Nucor",
+      "organization_url": null,
+      "date_validthrough": "2025-03-01T05:00:00",
+      "locations_raw": [
+        {
+          "address": {
+            "addressLocality": "Lexington",
+            "addressRegion": "NC",
+            "postalCode": "27292",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": null,
+      "url": "https://jobs.nucor.com/job/Lexington-Senior-Accountant-I-NC-27292/1263092200/",
+      "source_type": "ats",
+      "source": "successfactors",
+      "source_domain": "jobs.nucor.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Lexington"
+      ],
+      "regions_derived": [
+        "North Carolina"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Lexington, North Carolina, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        35.8018
+      ],
+      "lngs_derived": [
+        -80.2682
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408674645",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T21:42:56.22623",
+      "title": "Senior Accountant - Revenue Accounting",
+      "organization": "Franklin Templeton",
+      "organization_url": "",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "USA-BAL100-Baltimore"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "Baltimore, Maryland, United States of America"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://franklintempleton.wd5.myworkdayjobs.com/Invitation-Only/job/Baltimore-Maryland-United-States-of-America/Senior-Accountant---Revenue-Accounting_860843",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "franklintempleton.wd5.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Baltimore"
+      ],
+      "regions_derived": [
+        "Maryland"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Baltimore, Maryland, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        39.3051
+      ],
+      "lngs_derived": [
+        -76.6144
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408672083",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T21:41:34.759181",
+      "title": "Senior Public Staff Accountant",
+      "organization": "Aston Carter",
+      "organization_url": "https://careers.astoncarter.com/us/en",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.5147831",
+            "longitude": "-96.7744956"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "postalCode": "57101",
+            "addressCountry": "USA",
+            "addressLocality": "Sioux Falls",
+            "addressRegion": "South Dakota"
+          },
+          "@type": "Place"
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": "75000",
+          "maxValue": "85000",
+          "unitText": "year"
+        }
+      },
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://careers.astoncarter.com/us/en/job/JP-005067791/Senior-Public-Staff-Accountant",
+      "source_type": "ats",
+      "source": "phenompeople",
+      "source_domain": "careers.astoncarter.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Sioux Falls"
+      ],
+      "regions_derived": [
+        "South Dakota"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Sioux Falls, South Dakota, United States"
+      ],
+      "timezones_derived": [
+        "America/Chicago"
+      ],
+      "lats_derived": [
+        43.5396
+      ],
+      "lngs_derived": [
+        -96.7311
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408669520",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T21:40:45.783386",
+      "title": "Senior Accountant",
+      "organization": "Trimark Associates, Inc.",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Folsom, California, United States",
+            "addressRegion": "CA",
+            "addressCountry": null,
+            "postalCode": null
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": null,
+      "url": "https://boards.greenhouse.io/trimarkassociates/jobs/5451561004",
+      "source_type": "ats",
+      "source": "greenhouse",
+      "source_domain": "boards.greenhouse.io",
+      "organization_logo": "https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/575/000/resized/Trimark-Logo-Large.png?1634664640",
+      "cities_derived": [
+        "Folsom"
+      ],
+      "regions_derived": [
+        "California"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Folsom, California, United States"
+      ],
+      "timezones_derived": [
+        "America/Los_Angeles"
+      ],
+      "lats_derived": [
+        38.6668
+      ],
+      "lngs_derived": [
+        -121.1422
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408658375",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T21:37:00.255649",
+      "title": "General Ledger Accountant",
+      "organization": "MedVet",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Worthington",
+            "addressRegion": "Ohio",
+            "addressCountry": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": {
+        "@type": "MonetaryAmount",
+        "currency": "",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": "",
+          "maxValue": "",
+          "unitText": ""
+        }
+      },
+      "employment_type": [
+        "Full-Time Salary"
+      ],
+      "url": "https://jobs.jobvite.com/medvet/job/of5svfw1",
+      "source_type": "ats",
+      "source": "jobvite",
+      "source_domain": "jobs.jobvite.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Worthington"
+      ],
+      "regions_derived": [
+        "Ohio"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Worthington, Ohio, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        40.095
+      ],
+      "lngs_derived": [
+        -83.0209
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408639358",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T21:28:58.171857",
+      "title": "Accountant I",
+      "organization": "The Jewish Board",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "226 Linda Ave",
+            "addressLocality": "Hawthorne",
+            "addressRegion": "New York",
+            "postalCode": "10532",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": {
+        "@type": "MonetaryAmount",
+        "value": {
+          "@type": "QuantitativeValue",
+          "value": null,
+          "minValue": "45000.00000",
+          "maxValue": "50000.00000",
+          "unitText": "YEAR"
+        }
+      },
+      "employment_type": null,
+      "url": "https://us242.dayforcehcm.com/CandidatePortal/en-US/jbfcs/Posting/View/29569",
+      "source_type": "ats",
+      "source": "dayforce",
+      "source_domain": "us242.dayforcehcm.com",
+      "organization_logo": "https://us242.dayforcehcm.com/CandidatePortal/en-US/jbfcs/Go?item=ca73a224-c5f9-4e8b-889f-9aa8b38b89be",
+      "cities_derived": [
+        "Hawthorne"
+      ],
+      "regions_derived": [
+        "New York"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Hawthorne, New York, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        41.1035
+      ],
+      "lngs_derived": [
+        -73.7968
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408565931",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T20:45:35.027591",
+      "title": "Staff Accountant",
+      "organization": "Whole Foods Market",
+      "organization_url": "",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "TX, Austin - Global Support"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "TX, Austin - Global Support"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://wholefoods.wd5.myworkdayjobs.com/wholefoods/job/TX-Austin---Global-Support/Staff-Accountant_Req-20250201698",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "wholefoods.wd5.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": null,
+      "regions_derived": null,
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        38.9047
+      ],
+      "lngs_derived": [
+        -77.0163
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408565426",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T20:45:20.863298",
+      "title": "Project Accountant",
+      "organization": "Blavity Inc.",
+      "organization_url": "http://blavityinc.com/",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "New York",
+            "addressRegion": "NY",
+            "postalCode": "10001"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": "TELECOMMUTE",
+      "location_requirements_raw": [
+        {
+          "@type": "Country",
+          "name": "US"
+        }
+      ],
+      "salary_raw": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "unitText": "YEAR",
+          "minValue": 75000,
+          "maxValue": 85000
+        }
+      },
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://blavity.applytojob.com/apply/7twIZuCL5h/Project-Accountant",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "blavity.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20160416211801_ITWZRJYY7GFUTUCH/logos/20160423181030_Blavity_1.png",
+      "cities_derived": null,
+      "regions_derived": [
+        "New York"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "New York, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        42.6664
+      ],
+      "lngs_derived": [
+        -73.7987
+      ],
+      "remote_derived": true
+    },
+    {
+      "id": "1408549544",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T20:38:29.285989",
+      "title": "Senior Accountant",
+      "organization": "corbion",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "address": {
+            "addressLocality": "Lenexa",
+            "addressRegion": "KS",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": null,
+      "url": "https://jobs.corbion.com/job/Lenexa-Senior-Accountant-KS/1172038401/",
+      "source_type": "ats",
+      "source": "successfactors",
+      "source_domain": "jobs.corbion.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Lenexa"
+      ],
+      "regions_derived": [
+        "Kansas"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Lenexa, Kansas, United States"
+      ],
+      "timezones_derived": [
+        "America/Chicago"
+      ],
+      "lats_derived": [
+        38.9609
+      ],
+      "lngs_derived": [
+        -94.8018
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408517013",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T20:23:47.25765",
+      "title": "Staff Accountant ",
+      "organization": "Agent",
+      "organization_url": "{}",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Richmond",
+            "addressRegion": "Kentucky",
+            "addressCountry": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://jobs.ashbyhq.com/Agent/e89b8346-91ab-4eb5-84d4-cc1191f18182",
+      "source_type": "ats",
+      "source": "ashby",
+      "source_domain": "jobs.ashbyhq.com",
+      "organization_logo": "https://app.ashbyhq.com/api/images/org-theme-logo/8a53378a-c2b0-4440-a652-ef21fe39ac68/1a3e9365-204c-42ad-9641-64f147d84cbe/d7b6c02a-f042-44c1-be36-571551980619.png",
+      "cities_derived": [
+        "Richmond"
+      ],
+      "regions_derived": [
+        "Kentucky"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Richmond, Kentucky, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        37.7307
+      ],
+      "lngs_derived": [
+        -84.2925
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408456704",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T19:50:43.486128",
+      "title": "Senior Accountant",
+      "organization": "Black Spectacles",
+      "organization_url": "https://jobs.workable.com/company/wRQ5tQm88ffpRBgWMCFWAM/jobs-at-black-spectacles",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place"
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": "TELECOMMUTE",
+      "location_requirements_raw": [
+        {
+          "@type": "Country",
+          "name": "United States"
+        }
+      ],
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://jobs.workable.com/view/3ndBaDGfasKFyrzPqeejF9/remote-senior-accountant-in-chicago-at-black-spectacles",
+      "source_type": "ats",
+      "source": "workable",
+      "source_domain": "jobs.workable.com",
+      "organization_logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/153415/logo",
+      "cities_derived": null,
+      "regions_derived": null,
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        38.9047
+      ],
+      "lngs_derived": [
+        -77.0163
+      ],
+      "remote_derived": true
+    },
+    {
+      "id": "1408430595",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T19:38:46.060503",
+      "title": "Senior Financial Accountant",
+      "organization": "Invue",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Charlotte",
+            "addressRegion": "North Carolina",
+            "addressCountry": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": {
+        "@type": "MonetaryAmount",
+        "currency": "",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": "",
+          "maxValue": "",
+          "unitText": ""
+        }
+      },
+      "employment_type": [
+        "Full-Time"
+      ],
+      "url": "https://jobs.jobvite.com/invue/job/oW0svfwD",
+      "source_type": "ats",
+      "source": "jobvite",
+      "source_domain": "jobs.jobvite.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Charlotte"
+      ],
+      "regions_derived": [
+        "North Carolina"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Charlotte, North Carolina, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        35.2083
+      ],
+      "lngs_derived": [
+        -80.8303
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408427988",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T19:37:41.813262",
+      "title": "Senior Accountant, Revenue & Reporting",
+      "organization": "CPKC",
+      "organization_url": null,
+      "date_validthrough": "2025-06-01T06:00:00",
+      "locations_raw": [
+        {
+          "address": {
+            "addressLocality": "Kansas City 1",
+            "addressRegion": "MO",
+            "postalCode": "64105",
+            "addressCountry": "US"
+          }
+        },
+        {
+          "address": {
+            "addressLocality": "Calgary",
+            "addressRegion": "AB",
+            "postalCode": "T2G 3J5",
+            "addressCountry": "CA"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": null,
+      "url": "https://careers.cpr.ca/job/Calgary-Senior-Accountant%2C-Revenue-&-Reporting-AB-T2G-3J5/589621317/",
+      "source_type": "ats",
+      "source": "successfactors",
+      "source_domain": "careers.cpr.ca",
+      "organization_logo": null,
+      "cities_derived": [
+        "Calgary"
+      ],
+      "regions_derived": [
+        "Alberta",
+        "Missouri"
+      ],
+      "countries_derived": [
+        "Canada",
+        "United States"
+      ],
+      "locations_derived": [
+        "Calgary, Alberta, Canada",
+        "Missouri, United States"
+      ],
+      "timezones_derived": [
+        "America/Edmonton",
+        "America/Chicago"
+      ],
+      "lats_derived": [
+        51.05,
+        38.5676
+      ],
+      "lngs_derived": [
+        -114.0667,
+        -92.1759
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408424332",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T19:36:01.574972",
+      "title": "Senior Accountant",
+      "organization": "Aquarion Water Company",
+      "organization_url": null,
+      "date_validthrough": "2025-08-01T04:00:00",
+      "locations_raw": [
+        {
+          "address": {
+            "addressLocality": "Bridgeport",
+            "addressRegion": "CT",
+            "postalCode": "06606",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": null,
+      "url": "https://jobs.aquarionwater.com/job/Bridgeport-Senior-Accountant-CT-06606/1262861700/",
+      "source_type": "ats",
+      "source": "successfactors",
+      "source_domain": "jobs.aquarionwater.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Bridgeport"
+      ],
+      "regions_derived": [
+        "Connecticut"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Bridgeport, Connecticut, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        41.1918
+      ],
+      "lngs_derived": [
+        -73.1954
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408395020",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T19:22:58.227495",
+      "title": "Payroll Accountant Manager",
+      "organization": "Wilderness Resort",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1424 Old Knoxville Highway",
+            "addressLocality": "Sevierville",
+            "addressRegion": "Tennessee",
+            "postalCode": "37876",
+            "addressCountry": "USA"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": {
+        "@type": "MonetaryAmount",
+        "value": {
+          "@type": "QuantitativeValue",
+          "value": null,
+          "minValue": null,
+          "maxValue": null,
+          "unitText": "YEAR"
+        }
+      },
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://us242.dayforcehcm.com/CandidatePortal/en-US/whri/Site/TNJOBS/Posting/View/11001",
+      "source_type": "ats",
+      "source": "dayforce",
+      "source_domain": "us242.dayforcehcm.com",
+      "organization_logo": "https://us242.dayforcehcm.com/CandidatePortal/en-US/whri/Go?item=0b5fe959-0f5d-4095-b299-b7686857a6bc",
+      "cities_derived": [
+        "Sevierville"
+      ],
+      "regions_derived": [
+        "Tennessee"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Sevierville, Tennessee, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        35.8872
+      ],
+      "lngs_derived": [
+        -83.5678
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408388413",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T19:19:21.285078",
+      "title": "Accountant",
+      "organization": "GPR",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US",
+            "addressLocality": "Somerville",
+            "addressRegion": "MA",
+            "postalCode": "02143",
+            "streetAddress": null
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://gpr.recruitee.com/o/accountant",
+      "source_type": "ats",
+      "source": "recruitee",
+      "source_domain": "gpr.recruitee.com",
+      "organization_logo": "",
+      "cities_derived": [
+        "Somerville"
+      ],
+      "regions_derived": [
+        "Massachusetts"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Somerville, Massachusetts, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        42.3908
+      ],
+      "lngs_derived": [
+        -71.1014
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408328248",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T18:51:00.558184",
+      "title": "Corporate Accountant - Thermoformed & Flexible Packaging (TFP)",
+      "organization": "Sonoco",
+      "organization_url": "",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "Charlotte, NC, USA"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "Charlotte, NC, USA",
+        "Hartsville, SC, USA"
+      ],
+      "location_type": "TELECOMMUTE",
+      "location_requirements_raw": [
+        {
+          "@type": "Country",
+          "name": "United States of America"
+        }
+      ],
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sonoco.wd1.myworkdayjobs.com/CorporateCareers/job/Charlotte-NC-USA/Corporate-Accountant---Thermoformed---Flexible-Packaging--TFP-_JR-141067",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "sonoco.wd1.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Hartsville",
+        "Charlotte"
+      ],
+      "regions_derived": [
+        "South Carolina",
+        "North Carolina"
+      ],
+      "countries_derived": [
+        "United States",
+        "United States"
+      ],
+      "locations_derived": [
+        "Hartsville, South Carolina, United States",
+        "Charlotte, North Carolina, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York",
+        "America/New_York"
+      ],
+      "lats_derived": [
+        34.3675,
+        35.2083
+      ],
+      "lngs_derived": [
+        -80.0829,
+        -80.8303
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408319265",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T18:47:41.919614",
+      "title": "Accountant Banner Research",
+      "organization": "Banner Health",
+      "organization_url": "",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "Remote Phoenix AZ"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "Remote Arizona"
+      ],
+      "location_type": "TELECOMMUTE",
+      "location_requirements_raw": [
+        {
+          "@type": "Country",
+          "name": "United States of America"
+        }
+      ],
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://bannerhealth.wd5.myworkdayjobs.com/Careers/job/Remote-Arizona/Accountant-Banner-Research_R4401236",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "bannerhealth.wd5.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": null,
+      "regions_derived": [
+        "Arizona"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Arizona, United States"
+      ],
+      "timezones_derived": [
+        "America/Phoenix"
+      ],
+      "lats_derived": [
+        33.5722
+      ],
+      "lngs_derived": [
+        -112.0892
+      ],
+      "remote_derived": true
+    },
+    {
+      "id": "1408318339",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T18:47:10.432128",
+      "title": "Senior Cost Accountant",
+      "organization": "Enovis",
+      "organization_url": "",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "DJO Dallas Headquarters"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "USA, Texas, Dallas",
+        "USA, Texas, Austin"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://enovis.wd5.myworkdayjobs.com/enovis/job/USA-Texas-Dallas/Sr-Cost-Accountant_R0028812",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "enovis.wd5.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Dallas",
+        "Austin"
+      ],
+      "regions_derived": [
+        "Texas",
+        "Texas"
+      ],
+      "countries_derived": [
+        "United States",
+        "United States"
+      ],
+      "locations_derived": [
+        "Dallas, Texas, United States",
+        "Austin, Texas, United States"
+      ],
+      "timezones_derived": [
+        "America/Chicago",
+        "America/Chicago"
+      ],
+      "lats_derived": [
+        32.7935,
+        30.3005
+      ],
+      "lngs_derived": [
+        -96.7667,
+        -97.7522
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408313387",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T18:44:17.477916",
+      "title": "Senior Accountant",
+      "organization": "Trulieve",
+      "organization_url": null,
+      "date_validthrough": "2025-03-14T23:59:00",
+      "locations_raw": [
+        {
+          "address": {
+            "addressLocality": "Clearwater",
+            "addressRegion": "FL",
+            "postalCode": "33760",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": null,
+      "url": "https://careers.trulieve.com/job/Clearwater-Senior-Accountant-FL-33760/1262911400/",
+      "source_type": "ats",
+      "source": "successfactors",
+      "source_domain": "careers.trulieve.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Clearwater"
+      ],
+      "regions_derived": [
+        "Florida"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Clearwater, Florida, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        27.979
+      ],
+      "lngs_derived": [
+        -82.7623
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408310439",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T18:42:28.066373",
+      "title": "Accountant II",
+      "organization": "NextEra Energy",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "address": {
+            "addressLocality": "Juno Beach",
+            "addressRegion": "FL",
+            "postalCode": "33408",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": null,
+      "url": "https://jobs.nexteraenergy.com/job/Juno-Beach-Accountant-II-FL-33408/1262983400/",
+      "source_type": "ats",
+      "source": "successfactors",
+      "source_domain": "jobs.nexteraenergy.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Juno Beach"
+      ],
+      "regions_derived": [
+        "Florida"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Juno Beach, Florida, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        26.8754
+      ],
+      "lngs_derived": [
+        -80.0589
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408297850",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T18:36:09.209754",
+      "title": "Staff Accountant",
+      "organization": "New Balance",
+      "organization_url": "https://jobs.newbalance.com/global/en",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "42.3567408",
+            "longitude": "-71.1499575"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "postalCode": "02135",
+            "addressCountry": "United States of America",
+            "addressLocality": "Brighton",
+            "addressRegion": "Massachusetts"
+          },
+          "@type": "Place"
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://jobs.newbalance.com/global/en/job/R35157/Staff-Accountant",
+      "source_type": "ats",
+      "source": "phenompeople",
+      "source_domain": "jobs.newbalance.com",
+      "organization_logo": "https://assets.phenompeople.com/CareerConnectResources/pp/NEBAGLOBAL/images/job_logo_config-1580983479664.jpg",
+      "cities_derived": [
+        "Brighton"
+      ],
+      "regions_derived": [
+        "Colorado"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Brighton, Colorado, United States"
+      ],
+      "timezones_derived": [
+        "America/Denver"
+      ],
+      "lats_derived": [
+        39.9716
+      ],
+      "lngs_derived": [
+        -104.7963
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408230851",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T18:00:11.592865",
+      "title": "Staff Accountant (Accounts Payable)",
+      "organization": "Fluent, LLC",
+      "organization_url": "https://jobs.workable.com/company/tMm8NSxYhEh3fCvxoWNwcN/jobs-at-fluent%2C-llc",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "New York",
+            "addressRegion": "New York",
+            "addressCountry": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "New York, New York, United States"
+      ],
+      "location_type": "TELECOMMUTE",
+      "location_requirements_raw": [
+        {
+          "@type": "Country",
+          "name": "United States"
+        }
+      ],
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://jobs.workable.com/view/53DxrKPiRDXnCMy4eD2FML/hybrid-staff-accountant-(accounts-payable)-in-new-york-at-fluent%2C-llc",
+      "source_type": "ats",
+      "source": "workable",
+      "source_domain": "jobs.workable.com",
+      "organization_logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/256270/logo",
+      "cities_derived": null,
+      "regions_derived": [
+        "New York"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "New York, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        42.6664
+      ],
+      "lngs_derived": [
+        -73.7987
+      ],
+      "remote_derived": true
+    },
+    {
+      "id": "1408205411",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T17:43:31.339066",
+      "title": "Project Accountant",
+      "organization": "SOLV Energy",
+      "organization_url": "",
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "San Diego CA Renewable Group"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "San Diego CA Renewable Group"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://solvenergy.wd1.myworkdayjobs.com/SOLV_External_Career/job/San-Diego-CA-Renewable-Group/Project-Accountant_J11137",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "solvenergy.wd1.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": null,
+      "regions_derived": null,
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        38.9047
+      ],
+      "lngs_derived": [
+        -77.0163
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408205025",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T17:43:21.007246",
+      "title": "Plant Accountant",
+      "organization": "Amcor",
+      "organization_url": "",
+      "date_validthrough": "2025-04-30T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "United States of America",
+            "addressLocality": "ARP Allentown PA"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "ARP Allentown PA"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://amcor.wd5.myworkdayjobs.com/Amcor_External_Career_Site/job/ARP-Allentown-PA/Plant-Accountant_REQ_77216",
+      "source_type": "ats",
+      "source": "workday",
+      "source_domain": "amcor.wd5.myworkdayjobs.com",
+      "organization_logo": null,
+      "cities_derived": null,
+      "regions_derived": null,
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        38.9047
+      ],
+      "lngs_derived": [
+        -77.0163
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408202856",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T17:42:16.322385",
+      "title": "Accountant, Senior",
+      "organization": "corbion",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "address": {
+            "addressLocality": "Lenexa",
+            "addressRegion": "KS",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": null,
+      "url": "https://jobs.corbion.com/job/Lenexa-Accountant%2C-Senior-KS/1172038401/",
+      "source_type": "ats",
+      "source": "successfactors",
+      "source_domain": "jobs.corbion.com",
+      "organization_logo": null,
+      "cities_derived": [
+        "Lenexa"
+      ],
+      "regions_derived": [
+        "Kansas"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Lenexa, Kansas, United States"
+      ],
+      "timezones_derived": [
+        "America/Chicago"
+      ],
+      "lats_derived": [
+        38.9609
+      ],
+      "lngs_derived": [
+        -94.8018
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408121043",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:58:55.835652",
+      "title": "Staff Accountant",
+      "organization": "Rycon Construction",
+      "organization_url": null,
+      "date_validthrough": null,
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15222",
+            "addressCountry": "United States"
+          }
+        }
+      ],
+      "locations_alt_raw": [
+        "Pittsburgh, Pennsylvania"
+      ],
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "OTHER"
+      ],
+      "url": "https://rycon.bamboohr.com/careers/559",
+      "source_type": "ats",
+      "source": "bamboohr",
+      "source_domain": "rycon.bamboohr.com",
+      "organization_logo": "https://images7.bamboohr.com/172587/logos/cropped.jpg?v=45",
+      "cities_derived": [
+        "Pittsburgh"
+      ],
+      "regions_derived": [
+        "Pennsylvania"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Pittsburgh, Pennsylvania, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        40.4397
+      ],
+      "lngs_derived": [
+        -79.9763
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408111803",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:47.475014",
+      "title": "Senior Project Accountant",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Atlanta",
+            "addressRegion": "GA",
+            "postalCode": ""
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/RDKJIpp9e4/Senior-Project-Accountant",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Atlanta"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Atlanta, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        33.7628
+      ],
+      "lngs_derived": [
+        -84.422
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408111688",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:44.333713",
+      "title": "Senior Accountant - Right Hand to the Controller",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Atlanta",
+            "addressRegion": "GA",
+            "postalCode": ""
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/xUocXCcZ45/Senior-Accountant-Right-Hand-To-The-Controller",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Atlanta"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Atlanta, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        33.7628
+      ],
+      "lngs_derived": [
+        -84.422
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408111680",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:43.946536",
+      "title": "Statutory Accountant",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Norcross",
+            "addressRegion": "GA",
+            "postalCode": ""
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/S1yh05PVQG/Statutory-Accountant",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Norcross"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Norcross, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        33.9379
+      ],
+      "lngs_derived": [
+        -84.2065
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408111671",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:43.73994",
+      "title": "Statutory Accountant",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Smyrna",
+            "addressRegion": "GA",
+            "postalCode": ""
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/fXXtPiMw41/Statutory-Accountant",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Smyrna"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Smyrna, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        33.8633
+      ],
+      "lngs_derived": [
+        -84.5168
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408111655",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:43.35287",
+      "title": "staff accountant",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Calhoun",
+            "addressRegion": "GA",
+            "postalCode": ""
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/m8rGhuffNC/Staff-Accountant",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Calhoun"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Calhoun, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        34.491
+      ],
+      "lngs_derived": [
+        -84.9386
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408111642",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:43.117601",
+      "title": "Statutory Accountant",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Duluth",
+            "addressRegion": "GA",
+            "postalCode": ""
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/KiiynJlhFF/Statutory-Accountant",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Duluth"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Duluth, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        34.0053
+      ],
+      "lngs_derived": [
+        -84.1492
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408111637",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:42.964509",
+      "title": "Senior Staff Accountant",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Kennesaw",
+            "addressRegion": "GA",
+            "postalCode": ""
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/Nc8XavWBAo/Senior-Staff-Accountant",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Kennesaw"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Kennesaw, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        34.026
+      ],
+      "lngs_derived": [
+        -84.6177
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408111636",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:42.91785",
+      "title": "Senior Cost Accountant",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Kennesaw",
+            "addressRegion": "GA",
+            "postalCode": ""
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/gC2bCEm5Rl/Senior-Cost-Accountant",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Kennesaw"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Kennesaw, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        34.026
+      ],
+      "lngs_derived": [
+        -84.6177
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408111635",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:42.916663",
+      "title": "Staff Accountant",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Cumming",
+            "addressRegion": "GA",
+            "postalCode": ""
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/h58uTjhs27/Staff-Accountant",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Cumming"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Cumming, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        34.2063
+      ],
+      "lngs_derived": [
+        -84.1339
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408111634",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:42.913829",
+      "title": "Staff Accountant (Hybrid)",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Cumming",
+            "addressRegion": "GA",
+            "postalCode": "30028"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/4M5gWalATv/Staff-Accountant-Hybrid",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Cumming"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Cumming, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        34.2063
+      ],
+      "lngs_derived": [
+        -84.1339
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408111630",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:42.8659",
+      "title": "Staff Accountant",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Atlanta",
+            "addressRegion": "GA",
+            "postalCode": "30339"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/VRbcW036yv/Staff-Accountant",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Atlanta"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Atlanta, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        33.7628
+      ],
+      "lngs_derived": [
+        -84.422
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408111627",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:42.829089",
+      "title": "Staff Accountant",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Atlanta",
+            "addressRegion": "GA",
+            "postalCode": ""
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/u3MkuYXQxl/Staff-Accountant",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Atlanta"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Atlanta, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        33.7628
+      ],
+      "lngs_derived": [
+        -84.422
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408111621",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:42.746392",
+      "title": "Senior Accountant",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Atlanta",
+            "addressRegion": "GA",
+            "postalCode": "30342"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/0Cl7ik0Ibc/Senior-Accountant",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Atlanta"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Atlanta, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        33.7628
+      ],
+      "lngs_derived": [
+        -84.422
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408111615",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:42.686818",
+      "title": "Senior Staff Accountant",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Norcross",
+            "addressRegion": "GA",
+            "postalCode": ""
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/MeXdf1uPrE/Senior-Staff-Accountant",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Norcross"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Norcross, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        33.9379
+      ],
+      "lngs_derived": [
+        -84.2065
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408111613",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:42.644031",
+      "title": "Senior Staff Accountant",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Chamblee",
+            "addressRegion": "GA",
+            "postalCode": ""
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/znw30UtTOJ/Senior-Staff-Accountant",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Chamblee"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Chamblee, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        33.8842
+      ],
+      "lngs_derived": [
+        -84.3007
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408111611",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:42.608209",
+      "title": "Staff Accountant",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Cumming",
+            "addressRegion": "GA",
+            "postalCode": ""
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/e7lGBYRexe/Staff-Accountant",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Cumming"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Cumming, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        34.2063
+      ],
+      "lngs_derived": [
+        -84.1339
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408111609",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:42.535941",
+      "title": "Senior Staff Accountant",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Duluth",
+            "addressRegion": "GA",
+            "postalCode": ""
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/i1EONFCBIc/Senior-Staff-Accountant",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Duluth"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Duluth, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        34.0053
+      ],
+      "lngs_derived": [
+        -84.1492
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408111600",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:42.23832",
+      "title": "Property Accountant",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Atlanta",
+            "addressRegion": "GA",
+            "postalCode": "30309"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": "TELECOMMUTE",
+      "location_requirements_raw": [
+        {
+          "@type": "Country",
+          "name": "US"
+        }
+      ],
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/mzQXCqZTU8/Property-Accountant",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Atlanta"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Atlanta, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        33.7628
+      ],
+      "lngs_derived": [
+        -84.422
+      ],
+      "remote_derived": true
+    },
+    {
+      "id": "1408111589",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:42.05184",
+      "title": "Senior Tax Accountant - Public - REMOTE -",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Atlanta",
+            "addressRegion": "GA",
+            "postalCode": ""
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": "TELECOMMUTE",
+      "location_requirements_raw": [
+        {
+          "@type": "Country",
+          "name": "US"
+        }
+      ],
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/msydK4zY3U/Senior-Tax-Accountant-Public-REMOTE-",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Atlanta"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Atlanta, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        33.7628
+      ],
+      "lngs_derived": [
+        -84.422
+      ],
+      "remote_derived": true
+    },
+    {
+      "id": "1408111581",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:41.894804",
+      "title": "Senior Accountant with Great Plains",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Alpharetta",
+            "addressRegion": "GA",
+            "postalCode": "30005"
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/vTGoPGkOmp/Senior-Accountant-With-Great-Plains",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Alpharetta"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Alpharetta, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        34.0704
+      ],
+      "lngs_derived": [
+        -84.2738
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408111579",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:41.877487",
+      "title": "Senior Cost Accountant",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Duluth",
+            "addressRegion": "GA",
+            "postalCode": ""
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/DEJ7lOP50i/Senior-Cost-Accountant",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Duluth"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Duluth, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        34.0053
+      ],
+      "lngs_derived": [
+        -84.1492
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408111572",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:41.796995",
+      "title": "Senior Cost Accountant",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Norcross",
+            "addressRegion": "GA",
+            "postalCode": ""
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/oWzy0ZrwFw/Senior-Cost-Accountant",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Norcross"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Norcross, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        33.9379
+      ],
+      "lngs_derived": [
+        -84.2065
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408111561",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:41.637611",
+      "title": "Senior Cost Accountant",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Smyrna",
+            "addressRegion": "GA",
+            "postalCode": ""
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/2dxHZR8qXr/Senior-Cost-Accountant",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Smyrna"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Smyrna, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        33.8633
+      ],
+      "lngs_derived": [
+        -84.5168
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408111556",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:41.569162",
+      "title": "Senior Accountant - Alpharetta",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Alpharetta",
+            "addressRegion": "GA",
+            "postalCode": ""
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "unitText": "YEAR",
+          "minValue": 100000,
+          "maxValue": 110000
+        }
+      },
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/7oWppSkxas/Senior-Accountant-Alpharetta",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Alpharetta"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Alpharetta, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        34.0704
+      ],
+      "lngs_derived": [
+        -84.2738
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408111548",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:41.490627",
+      "title": "Senior Accountant",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Atlanta",
+            "addressRegion": "GA",
+            "postalCode": ""
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/H0RXjJwgE0/Senior-Accountant",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Atlanta"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Atlanta, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        33.7628
+      ],
+      "lngs_derived": [
+        -84.422
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408111502",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:40.403774",
+      "title": "Project Accountant",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Atlanta",
+            "addressRegion": "GA",
+            "postalCode": ""
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/pBPiVfrv08/Project-Accountant",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Atlanta"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Atlanta, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        33.7628
+      ],
+      "lngs_derived": [
+        -84.422
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408111501",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:40.341597",
+      "title": "Project Accountant",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Cumming",
+            "addressRegion": "GA",
+            "postalCode": ""
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/SFA00OuX7q/Project-Accountant",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Cumming"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Cumming, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        34.2063
+      ],
+      "lngs_derived": [
+        -84.1339
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408111478",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:39.927143",
+      "title": "Project Accountant – Hybrid Role",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Cumming",
+            "addressRegion": "GA",
+            "postalCode": ""
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/0OLqG82s7o/Project-Accountant-Hybrid-Role",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Cumming"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Cumming, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        34.2063
+      ],
+      "lngs_derived": [
+        -84.1339
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408111352",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:37.97619",
+      "title": "Accounts Payable Accountant",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Marietta",
+            "addressRegion": "GA",
+            "postalCode": ""
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/FSusFgH88c/Accounts-Payable-Accountant",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Marietta"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Marietta, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        33.9533
+      ],
+      "lngs_derived": [
+        -84.5422
+      ],
+      "remote_derived": false
+    },
+    {
+      "id": "1408111297",
+      "date_posted": "2025-02-14T00:00:00",
+      "date_created": "2025-02-14T16:51:36.919803",
+      "title": "Accounts Payable Accountant",
+      "organization": "Staff Financial Group",
+      "organization_url": "https://www.stafffinancial.com",
+      "date_validthrough": "2025-05-15T00:00:00",
+      "locations_raw": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Alpharetta",
+            "addressRegion": "GA",
+            "postalCode": ""
+          }
+        }
+      ],
+      "locations_alt_raw": null,
+      "location_type": null,
+      "location_requirements_raw": null,
+      "salary_raw": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sfgroup.applytojob.com/apply/ybfN9YfHSl/Accounts-Payable-Accountant",
+      "source_type": "ats",
+      "source": "jazzhr",
+      "source_domain": "sfgroup.applytojob.com",
+      "organization_logo": "https://s3.amazonaws.com/resumator/customer_20220510145017_DZKJOEO3UYJYVTZS/logos/20240929191549_Staff-Financial-Group_PNG.png",
+      "cities_derived": [
+        "Alpharetta"
+      ],
+      "regions_derived": [
+        "Georgia"
+      ],
+      "countries_derived": [
+        "United States"
+      ],
+      "locations_derived": [
+        "Alpharetta, Georgia, United States"
+      ],
+      "timezones_derived": [
+        "America/New_York"
+      ],
+      "lats_derived": [
+        34.0704
+      ],
+      "lngs_derived": [
+        -84.2738
+      ],
+      "remote_derived": false
+    }
+  ]
+}

@@ -1,23 +1,21 @@
-from flask import jsonify, request
+from flask import request, jsonify
 from http import HTTPStatus
+from app.routes import bp
 from app.common.types import ApiResponse, ErrorDetail
 from app.common.errors import error_logger
-from app.routes import bp
-from app.jobs import fetch_jobs
+from app.get_ai import send_info_to_agent, send_info_to_asian
 import uuid
 
-@bp.route('/abc_route', methods=['GET'])
-def api_endpoint():
+@bp.route('/call_ai', methods=['GET'])
+def call_ai():
     try:
-        # Call fetch_jobs function
-        jobs_data = fetch_jobs(title_filter='Consultant')
-        
+        result = send_info_to_agent()
         response = ApiResponse(
             success=True,
-            data={'jobs': jobs_data}
+            data=result
         )
-
-        return jsonify(response.model_dump()), HTTPStatus.OK
+        
+        return jsonify(response.model_dump()), HTTPStatus.OK  # Convert to JSON response
     
     except Exception as error:
         error_id = str(uuid.uuid4())
