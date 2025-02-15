@@ -9,7 +9,11 @@ class JobMatchingAgent:
     def __init__(self):
         load_dotenv()
         self.executor = ThreadPoolExecutor(max_workers=10)
-        self.openai_client = openai.Client(api_key=os.getenv('OPENAI_API_KEY'))
+
+        # Simplified client initialization
+        self.openai_client = openai.OpenAI(
+            api_key=os.getenv('OPENAI_API_KEY')
+        )
         self.base_prompt = """You are an expert HR professional and job matcher with deep experience in talent acquisition.
 Your task is to evaluate how well a candidate's profile matches the specific requirements of this role.
 Analyze the match considering:
