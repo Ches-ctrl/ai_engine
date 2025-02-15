@@ -1,4 +1,5 @@
 from flask import Blueprint, request, jsonify
+from flask_cors import cross_origin
 import PyPDF2
 import io
 
@@ -10,11 +11,12 @@ def upload_page():
     return render_template('test_upload.html')
 
 @bp.route('/parse-cv', methods=['POST'])
+@cross_origin()
 def parse_cv():
-    if 'file' not in request.files:
+    if 'cv' not in request.files:
         return jsonify({'error': 'No file uploaded'}), 400
 
-    file = request.files['file']
+    file = request.files['cv']
 
     if file.filename == '':
         return jsonify({'error': 'No file selected'}), 400
@@ -31,9 +33,10 @@ def parse_cv():
         for page in pdf_reader.pages:
             text += page.extract_text()
 
+        # Return cleaned up text
         return jsonify({
-            'status': 'success',
-            'text': text
+            'text': text.strip(),
+            'filename': file.filename
         })
 
     except Exception as e:

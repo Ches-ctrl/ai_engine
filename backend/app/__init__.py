@@ -14,14 +14,7 @@ def create_app(config_class=Config):
     app.config.from_object(config_class)
 
     # Running CORS in prod, as well as local
-    CORS(app, resources={
-        r"/*": {
-            "origins": app.config['FRONTEND_URL'],
-            "methods": ["GET", "POST"],
-            "allow_headers": ["Content-Type", "Content-Length"],
-            "max_age": 3600
-        }
-    })
+    CORS(app, resources={r"/*": {"origins": "*"}})
 
     # Register blueprints
     from app.routes import init_app
