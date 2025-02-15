@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CV Upload Test</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+        }
+        form {
+            margin-bottom: 20px;
+        }
+        #result {
+            white-space: pre-wrap;
+            background: #f5f5f5;
+            padding: 20px;
+            border-radius: 4px;
+        }
+        .error {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>CV Upload</h1>
+    <form id="uploadForm">
+        <input type="file" id="cvFile" accept=".pdf" required>
+        <button type="submit">Upload CV</button>
+    </form>
+    <pre id="result"></pre>
+
+    <script>
+        document.getElementById('uploadForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const result = document.getElementById('result');
+            result.className = '';
+
+            const formData = new FormData();
+            const fileField = document.getElementById('cvFile');
+
+            if (!fileField.files[0]) {
+                result.textContent = 'Please select a PDF file';
+                result.className = 'error';
+                return;
+            }
+
+            formData.append('file', fileField.files[0]);
+
+            try {
+                result.textContent = 'Uploading...';
+                const response = await fetch('http://localhost:5000/parse-cv', {
+                    method: 'POST',
+                    body: formData
+                });
+
+                const data = await response.json();
+
+                if (response.ok) {
+                    result.textContent = data.text;
+                } else {
+                    result.textContent = `Error: ${data.error || 'Something went wrong'}`;
+                    result.className = 'error';
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                result.textContent = `Error: ${error.message}`;
+                result.className = 'error';
+            }
+        });
+    </script>
+</body>
+</html>
