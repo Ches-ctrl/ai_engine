@@ -13,7 +13,7 @@ def create_app(config_class=Config):
     app = Flask(__name__)
     app.config.from_object(config_class)
 
-        # Running CORS in prod, as well as local
+    # Running CORS in prod, as well as local
     CORS(app, resources={
         r"/*": {
             "origins": app.config['FRONTEND_URL'],
@@ -21,6 +21,10 @@ def create_app(config_class=Config):
             "allow_headers": ["Content-Type"]
         }
     })
+
+    # Register blueprints
+    from app.routes import bp as bp
+    app.register_blueprint(bp, url_prefix='/')
 
     @app.route('/', methods=['GET'])
     def api_endpoint():
