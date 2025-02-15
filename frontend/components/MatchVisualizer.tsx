@@ -3,7 +3,7 @@
 import { useEffect, useRef } from 'react'
 import * as d3 from 'd3'
 
-interface Match {
+interface Match extends d3.SimulationNodeDatum {
   role: string
   score: number
   skills: string[]
@@ -26,7 +26,6 @@ export function MatchVisualizer({ matches }: MatchVisualizerProps) {
 
     const width = 800
     const height = 600
-    const margin = { top: 20, right: 20, bottom: 30, left: 40 }
 
     const svg = d3.select(svgRef.current)
       .attr('width', width)
@@ -46,7 +45,6 @@ export function MatchVisualizer({ matches }: MatchVisualizerProps) {
       .data(matches)
       .enter()
       .append('g')
-      .attr('transform', d => `translate(${d.x}, ${d.y})`)
 
     nodes.append('circle')
       .attr('r', d => d.score * 40)
@@ -60,33 +58,14 @@ export function MatchVisualizer({ matches }: MatchVisualizerProps) {
       .attr('fill', 'white')
 
     simulation.on('tick', () => {
-      nodes.attr('transform', d => `translate(${d.x}, ${d.y})`)
+      nodes.attr('transform', d => `translate(${d.x ?? 0}, ${d.y ?? 0})`)
     })
 
   }, [matches])
 
   return (
-    <div className="space-y-8">
-      <div className="bg-gray-800 p-6 rounded-lg">
-        <h2 className="text-xl font-bold mb-4">Top Matches</h2>
-        <div className="space-y-4">
-          {matches.slice(0, 5).map((match, i) => (
-            <div key={i} className="flex items-center justify-between p-4 bg-gray-700 rounded-lg">
-              <div>
-                <h3 className="font-semibold">{match.role}</h3>
-                <div className="text-sm text-gray-300 mt-1">
-                  {match.skills.join(' • ')}
-                </div>
-              </div>
-              <div className="text-2xl font-bold">{Math.round(match.score * 100)}%</div>
-            </div>
-          ))}
-        </div>
-      </div>
-
-      <div className="bg-gray-800 p-6 rounded-lg">
-        <svg ref={svgRef} className="w-full" />
-      </div>
+    <div className="bg-gray-800 p-6 rounded-lg">
+      <svg ref={svgRef} className="w-full" />
     </div>
   )
 }
